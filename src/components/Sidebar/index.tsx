@@ -1,6 +1,7 @@
 import Text from "@components/Text";
 import { Button } from "@headlessui/react";
 import { useState } from "react";
+import { Link } from "react-router";
 import {
   SIDEBAR_ITEMS,
   type TSidebarItem,
@@ -20,7 +21,9 @@ const Sidebar = () => {
         onClick={() => setActiveItem(item.value)}
         className={`w-full py-4 px-3 flex justify-start cursor-pointer ${isActive ? "bg-blue-300" : "hover:bg-blue-100"}`}
       >
-        <Text className="flex-1">{item.label}</Text>
+        <Link to={item.path} className="flex-1">
+          {item.label}
+        </Link>
       </Button>
     );
   };
