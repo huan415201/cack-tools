@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+@theme {
+  --color-thieulam: #fac74a;
+  --color-vodang: #515aa1;
+}
+
 body {
   margin: 0;
   width: 100vw;

@@ -22,7 +22,12 @@
       "@components/*": ["src/components/*"],
       "@layout/*": ["src/layout/*"],
       "@pages/*": ["src/pages/*"],
-      "@routing/*": ["src/routing/*"]
+      "@routing/*": ["src/routing/*"],
+      "@models/*": ["src/models/*"],
+      "@data/*": ["src/data/*"],
+      "@assets/*": ["src/assets/*"],
+      "@constants/*": ["src/constants/*"],
+      "@utils/*": ["src/utils/*"]
     },
 
     /* Linting */

@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5221,
+        "innerId": 117,
+        "level": 1,
+        "point": 7,
+        "lucTay": 9,
+        "thanPhap": 3,
+        "noiTuc": 10,
+        "canhKhi": 3,
+        "thePhach": 7,
+        "maxParry": 170,
+        "maxHp": 350,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5222,
+        "innerId": 117,
+        "level": 2,
+        "point": 8,
+        "lucTay": 10,
+        "thanPhap": 3,
+        "noiTuc": 11,
+        "canhKhi": 3,
+        "thePhach": 7,
+        "maxParry": 200,
+        "maxHp": 380,
+        "maxMp": 115,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5223,
+        "innerId": 117,
+        "level": 3,
+        "point": 9,
+        "lucTay": 12,
+        "thanPhap": 3,
+        "noiTuc": 12,
+        "canhKhi": 3,
+        "thePhach": 8,
+        "maxParry": 210,
+        "maxHp": 420,
+        "maxMp": 130,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5224,
+        "innerId": 117,
+        "level": 4,
+        "point": 10,
+        "lucTay": 13,
+        "thanPhap": 4,
+        "noiTuc": 13,
+        "canhKhi": 4,
+        "thePhach": 9,
+        "maxParry": 210,
+        "maxHp": 460,
+        "maxMp": 140,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5225,
+        "innerId": 117,
+        "level": 5,
+        "point": 11,
+        "lucTay": 14,
+        "thanPhap": 4,
+        "noiTuc": 14,
+        "canhKhi": 4,
+        "thePhach": 9,
+        "maxParry": 260,
+        "maxHp": 500,
+        "maxMp": 150,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5226,
+        "innerId": 117,
+        "level": 6,
+        "point": 12,
+        "lucTay": 15,
+        "thanPhap": 4,
+        "noiTuc": 15,
+        "canhKhi": 4,
+        "thePhach": 10,
+        "maxParry": 270,
+        "maxHp": 530,
+        "maxMp": 160,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5227,
+        "innerId": 117,
+        "level": 7,
+        "point": 13,
+        "lucTay": 16,
+        "thanPhap": 5,
+        "noiTuc": 16,
+        "canhKhi": 4,
+        "thePhach": 11,
+        "maxParry": 290,
+        "maxHp": 580,
+        "maxMp": 175,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5228,
+        "innerId": 117,
+        "level": 8,
+        "point": 14,
+        "lucTay": 17,
+        "thanPhap": 5,
+        "noiTuc": 17,
+        "canhKhi": 5,
+        "thePhach": 12,
+        "maxParry": 300,
+        "maxHp": 610,
+        "maxMp": 185,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5229,
+        "innerId": 117,
+        "level": 9,
+        "point": 15,
+        "lucTay": 18,
+        "thanPhap": 5,
+        "noiTuc": 18,
+        "canhKhi": 5,
+        "thePhach": 12,
+        "maxParry": 350,
+        "maxHp": 650,
+        "maxMp": 195,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5230,
+        "innerId": 117,
+        "level": 10,
+        "point": 16,
+        "lucTay": 19,
+        "thanPhap": 5,
+        "noiTuc": 19,
+        "canhKhi": 5,
+        "thePhach": 13,
+        "maxParry": 360,
+        "maxHp": 690,
+        "maxMp": 210,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5231,
+        "innerId": 117,
+        "level": 11,
+        "point": 17,
+        "lucTay": 20,
+        "thanPhap": 6,
+        "noiTuc": 20,
+        "canhKhi": 6,
+        "thePhach": 14,
+        "maxParry": 380,
+        "maxHp": 730,
+        "maxMp": 220,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5232,
+        "innerId": 117,
+        "level": 12,
+        "point": 18,
+        "lucTay": 21,
+        "thanPhap": 6,
+        "noiTuc": 21,
+        "canhKhi": 6,
+        "thePhach": 15,
+        "maxParry": 390,
+        "maxHp": 760,
+        "maxMp": 230,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5233,
+        "innerId": 117,
+        "level": 13,
+        "point": 19,
+        "lucTay": 22,
+        "thanPhap": 6,
+        "noiTuc": 23,
+        "canhKhi": 6,
+        "thePhach": 15,
+        "maxParry": 420,
+        "maxHp": 810,
+        "maxMp": 245,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5234,
+        "innerId": 117,
+        "level": 14,
+        "point": 20,
+        "lucTay": 23,
+        "thanPhap": 7,
+        "noiTuc": 24,
+        "canhKhi": 6,
+        "thePhach": 16,
+        "maxParry": 420,
+        "maxHp": 840,
+        "maxMp": 255,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5235,
+        "innerId": 117,
+        "level": 15,
+        "point": 21,
+        "lucTay": 25,
+        "thanPhap": 7,
+        "noiTuc": 25,
+        "canhKhi": 7,
+        "thePhach": 17,
+        "maxParry": 440,
+        "maxHp": 880,
+        "maxMp": 265,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5236,
+        "innerId": 117,
+        "level": 16,
+        "point": 22,
+        "lucTay": 26,
+        "thanPhap": 8,
+        "noiTuc": 26,
+        "canhKhi": 7,
+        "thePhach": 18,
+        "maxParry": 480,
+        "maxHp": 940,
+        "maxMp": 285,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5237,
+        "innerId": 117,
+        "level": 17,
+        "point": 23,
+        "lucTay": 27,
+        "thanPhap": 8,
+        "noiTuc": 28,
+        "canhKhi": 8,
+        "thePhach": 19,
+        "maxParry": 490,
+        "maxHp": 980,
+        "maxMp": 295,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5238,
+        "innerId": 117,
+        "level": 18,
+        "point": 24,
+        "lucTay": 29,
+        "thanPhap": 8,
+        "noiTuc": 29,
+        "canhKhi": 8,
+        "thePhach": 20,
+        "maxParry": 520,
+        "maxHp": 1040,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5239,
+        "innerId": 117,
+        "level": 19,
+        "point": 25,
+        "lucTay": 30,
+        "thanPhap": 9,
+        "noiTuc": 30,
+        "canhKhi": 8,
+        "thePhach": 21,
+        "maxParry": 550,
+        "maxHp": 1080,
+        "maxMp": 325,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5240,
+        "innerId": 117,
+        "level": 20,
+        "point": 26,
+        "lucTay": 32,
+        "thanPhap": 9,
+        "noiTuc": 32,
+        "canhKhi": 9,
+        "thePhach": 22,
+        "maxParry": 570,
+        "maxHp": 1140,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5241,
+        "innerId": 117,
+        "level": 21,
+        "point": 27,
+        "lucTay": 33,
+        "thanPhap": 9,
+        "noiTuc": 33,
+        "canhKhi": 9,
+        "thePhach": 23,
+        "maxParry": 590,
+        "maxHp": 1180,
+        "maxMp": 355,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5242,
+        "innerId": 117,
+        "level": 22,
+        "point": 28,
+        "lucTay": 34,
+        "thanPhap": 10,
+        "noiTuc": 35,
+        "canhKhi": 10,
+        "thePhach": 24,
+        "maxParry": 620,
+        "maxHp": 1240,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5243,
+        "innerId": 117,
+        "level": 23,
+        "point": 29,
+        "lucTay": 36,
+        "thanPhap": 10,
+        "noiTuc": 36,
+        "canhKhi": 10,
+        "thePhach": 24,
+        "maxParry": 650,
+        "maxHp": 1280,
+        "maxMp": 385,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5244,
+        "innerId": 117,
+        "level": 24,
+        "point": 30,
+        "lucTay": 37,
+        "thanPhap": 11,
+        "noiTuc": 37,
+        "canhKhi": 10,
+        "thePhach": 25,
+        "maxParry": 700,
+        "maxHp": 1340,
+        "maxMp": 405,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5245,
+        "innerId": 117,
+        "level": 25,
+        "point": 31,
+        "lucTay": 38,
+        "thanPhap": 11,
+        "noiTuc": 39,
+        "canhKhi": 11,
+        "thePhach": 26,
+        "maxParry": 710,
+        "maxHp": 1380,
+        "maxMp": 415,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 150 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5246,
+        "innerId": 117,
+        "level": 26,
+        "point": 32,
+        "lucTay": 40,
+        "thanPhap": 12,
+        "noiTuc": 40,
+        "canhKhi": 11,
+        "thePhach": 27,
+        "maxParry": 740,
+        "maxHp": 1430,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5247,
+        "innerId": 117,
+        "level": 27,
+        "point": 33,
+        "lucTay": 41,
+        "thanPhap": 12,
+        "noiTuc": 41,
+        "canhKhi": 11,
+        "thePhach": 28,
+        "maxParry": 770,
+        "maxHp": 1480,
+        "maxMp": 445,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5248,
+        "innerId": 117,
+        "level": 28,
+        "point": 34,
+        "lucTay": 43,
+        "thanPhap": 12,
+        "noiTuc": 43,
+        "canhKhi": 12,
+        "thePhach": 29,
+        "maxParry": 780,
+        "maxHp": 1530,
+        "maxMp": 460,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5249,
+        "innerId": 117,
+        "level": 29,
+        "point": 35,
+        "lucTay": 44,
+        "thanPhap": 13,
+        "noiTuc": 44,
+        "canhKhi": 12,
+        "thePhach": 30,
+        "maxParry": 810,
+        "maxHp": 1580,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5250,
+        "innerId": 117,
+        "level": 30,
+        "point": 36,
+        "lucTay": 45,
+        "thanPhap": 13,
+        "noiTuc": 46,
+        "canhKhi": 13,
+        "thePhach": 31,
+        "maxParry": 840,
+        "maxHp": 1630,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5251,
+        "innerId": 117,
+        "level": 31,
+        "point": 37,
+        "lucTay": 47,
+        "thanPhap": 13,
+        "noiTuc": 47,
+        "canhKhi": 13,
+        "thePhach": 32,
+        "maxParry": 850,
+        "maxHp": 1680,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5252,
+        "innerId": 117,
+        "level": 32,
+        "point": 38,
+        "lucTay": 48,
+        "thanPhap": 14,
+        "noiTuc": 49,
+        "canhKhi": 13,
+        "thePhach": 33,
+        "maxParry": 880,
+        "maxHp": 1730,
+        "maxMp": 520,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5253,
+        "innerId": 117,
+        "level": 33,
+        "point": 39,
+        "lucTay": 49,
+        "thanPhap": 14,
+        "noiTuc": 50,
+        "canhKhi": 14,
+        "thePhach": 34,
+        "maxParry": 910,
+        "maxHp": 1780,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5254,
+        "innerId": 117,
+        "level": 34,
+        "point": 40,
+        "lucTay": 51,
+        "thanPhap": 15,
+        "noiTuc": 51,
+        "canhKhi": 14,
+        "thePhach": 35,
+        "maxParry": 930,
+        "maxHp": 1830,
+        "maxMp": 550,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5255,
+        "innerId": 117,
+        "level": 35,
+        "point": 41,
+        "lucTay": 52,
+        "thanPhap": 15,
+        "noiTuc": 53,
+        "canhKhi": 15,
+        "thePhach": 36,
+        "maxParry": 950,
+        "maxHp": 1870,
+        "maxMp": 565,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 210 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 117,
+      "name": "Lưỡng Nghi Hộ Tâm Công",
+      "slug": "luong-nghi-ho-tam-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], \"Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi\", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.",
+      "photo": "neigong/ng_wd_001.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5256,
+        "innerId": 117,
+        "level": 36,
+        "point": 42,
+        "lucTay": 54,
+        "thanPhap": 15,
+        "noiTuc": 54,
+        "canhKhi": 15,
+        "thePhach": 37,
+        "maxParry": 980,
+        "maxHp": 1930,
+        "maxMp": 580,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 250 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi, một phần tác động lên các mục tiêu xung quanh làm tê, không thể di chuyển"
+      }
+    }
+  }
+]

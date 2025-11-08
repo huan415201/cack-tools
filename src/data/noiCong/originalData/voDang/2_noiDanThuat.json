@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5257,
+        "innerId": 118,
+        "level": 1,
+        "point": 22,
+        "lucTay": 8,
+        "thanPhap": 8,
+        "noiTuc": 37,
+        "canhKhi": 15,
+        "thePhach": 16,
+        "maxParry": 650,
+        "maxHp": 1020,
+        "maxMp": 275,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 38450,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5258,
+        "innerId": 118,
+        "level": 2,
+        "point": 23,
+        "lucTay": 9,
+        "thanPhap": 9,
+        "noiTuc": 39,
+        "canhKhi": 16,
+        "thePhach": 17,
+        "maxParry": 650,
+        "maxHp": 1070,
+        "maxMp": 290,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 45750,
+        "tuViTong": 38450,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5259,
+        "innerId": 118,
+        "level": 3,
+        "point": 24,
+        "lucTay": 9,
+        "thanPhap": 9,
+        "noiTuc": 41,
+        "canhKhi": 17,
+        "thePhach": 18,
+        "maxParry": 710,
+        "maxHp": 1130,
+        "maxMp": 305,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 53700,
+        "tuViTong": 84200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5260,
+        "innerId": 118,
+        "level": 4,
+        "point": 25,
+        "lucTay": 10,
+        "thanPhap": 9,
+        "noiTuc": 42,
+        "canhKhi": 18,
+        "thePhach": 19,
+        "maxParry": 740,
+        "maxHp": 1180,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 62300,
+        "tuViTong": 137900,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5261,
+        "innerId": 118,
+        "level": 5,
+        "point": 26,
+        "lucTay": 10,
+        "thanPhap": 10,
+        "noiTuc": 45,
+        "canhKhi": 18,
+        "thePhach": 20,
+        "maxParry": 760,
+        "maxHp": 1240,
+        "maxMp": 335,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 71500,
+        "tuViTong": 200200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5262,
+        "innerId": 118,
+        "level": 6,
+        "point": 27,
+        "lucTay": 11,
+        "thanPhap": 10,
+        "noiTuc": 46,
+        "canhKhi": 19,
+        "thePhach": 21,
+        "maxParry": 790,
+        "maxHp": 1290,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 81350,
+        "tuViTong": 271700,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5263,
+        "innerId": 118,
+        "level": 7,
+        "point": 28,
+        "lucTay": 11,
+        "thanPhap": 11,
+        "noiTuc": 49,
+        "canhKhi": 20,
+        "thePhach": 22,
+        "maxParry": 820,
+        "maxHp": 1350,
+        "maxMp": 360,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 91800,
+        "tuViTong": 353050,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5264,
+        "innerId": 118,
+        "level": 8,
+        "point": 29,
+        "lucTay": 11,
+        "thanPhap": 11,
+        "noiTuc": 50,
+        "canhKhi": 21,
+        "thePhach": 22,
+        "maxParry": 890,
+        "maxHp": 1400,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 102950,
+        "tuViTong": 444850,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5265,
+        "innerId": 118,
+        "level": 9,
+        "point": 30,
+        "lucTay": 12,
+        "thanPhap": 12,
+        "noiTuc": 52,
+        "canhKhi": 22,
+        "thePhach": 23,
+        "maxParry": 920,
+        "maxHp": 1460,
+        "maxMp": 390,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 114700,
+        "tuViTong": 547800,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5266,
+        "innerId": 118,
+        "level": 10,
+        "point": 31,
+        "lucTay": 12,
+        "thanPhap": 12,
+        "noiTuc": 54,
+        "canhKhi": 22,
+        "thePhach": 24,
+        "maxParry": 950,
+        "maxHp": 1500,
+        "maxMp": 400,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 127100,
+        "tuViTong": 662500,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5267,
+        "innerId": 118,
+        "level": 11,
+        "point": 32,
+        "lucTay": 13,
+        "thanPhap": 13,
+        "noiTuc": 56,
+        "canhKhi": 23,
+        "thePhach": 25,
+        "maxParry": 980,
+        "maxHp": 1560,
+        "maxMp": 420,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 140100,
+        "tuViTong": 789600,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5268,
+        "innerId": 118,
+        "level": 12,
+        "point": 33,
+        "lucTay": 13,
+        "thanPhap": 13,
+        "noiTuc": 58,
+        "canhKhi": 24,
+        "thePhach": 26,
+        "maxParry": 1010,
+        "maxHp": 1610,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 153750,
+        "tuViTong": 929700,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5269,
+        "innerId": 118,
+        "level": 13,
+        "point": 34,
+        "lucTay": 14,
+        "thanPhap": 13,
+        "noiTuc": 60,
+        "canhKhi": 25,
+        "thePhach": 27,
+        "maxParry": 1040,
+        "maxHp": 1670,
+        "maxMp": 450,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 168050,
+        "tuViTong": 1083450,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5270,
+        "innerId": 118,
+        "level": 14,
+        "point": 35,
+        "lucTay": 14,
+        "thanPhap": 14,
+        "noiTuc": 62,
+        "canhKhi": 26,
+        "thePhach": 28,
+        "maxParry": 1060,
+        "maxHp": 1720,
+        "maxMp": 460,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 183000,
+        "tuViTong": 1251500,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5271,
+        "innerId": 118,
+        "level": 15,
+        "point": 36,
+        "lucTay": 15,
+        "thanPhap": 14,
+        "noiTuc": 64,
+        "canhKhi": 27,
+        "thePhach": 29,
+        "maxParry": 1100,
+        "maxHp": 1780,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 198550,
+        "tuViTong": 1434500,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5272,
+        "innerId": 118,
+        "level": 16,
+        "point": 37,
+        "lucTay": 15,
+        "thanPhap": 15,
+        "noiTuc": 66,
+        "canhKhi": 27,
+        "thePhach": 29,
+        "maxParry": 1140,
+        "maxHp": 1830,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 2,
+        "tuViTienCap": 214750,
+        "tuViTong": 1633050,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5273,
+        "innerId": 118,
+        "level": 17,
+        "point": 38,
+        "lucTay": 15,
+        "thanPhap": 15,
+        "noiTuc": 68,
+        "canhKhi": 28,
+        "thePhach": 30,
+        "maxParry": 1190,
+        "maxHp": 1890,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 2,
+        "tuViTienCap": 231550,
+        "tuViTong": 1847800,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5274,
+        "innerId": 118,
+        "level": 18,
+        "point": 39,
+        "lucTay": 16,
+        "thanPhap": 16,
+        "noiTuc": 70,
+        "canhKhi": 29,
+        "thePhach": 31,
+        "maxParry": 1200,
+        "maxHp": 1940,
+        "maxMp": 520,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 249050,
+        "tuViTong": 2079350,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5275,
+        "innerId": 118,
+        "level": 19,
+        "point": 40,
+        "lucTay": 16,
+        "thanPhap": 16,
+        "noiTuc": 72,
+        "canhKhi": 30,
+        "thePhach": 32,
+        "maxParry": 1250,
+        "maxHp": 2000,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 267150,
+        "tuViTong": 2328400,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5276,
+        "innerId": 118,
+        "level": 20,
+        "point": 41,
+        "lucTay": 17,
+        "thanPhap": 16,
+        "noiTuc": 74,
+        "canhKhi": 30,
+        "thePhach": 33,
+        "maxParry": 1260,
+        "maxHp": 2040,
+        "maxMp": 545,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 285900,
+        "tuViTong": 2595550,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5277,
+        "innerId": 118,
+        "level": 21,
+        "point": 42,
+        "lucTay": 17,
+        "thanPhap": 17,
+        "noiTuc": 76,
+        "canhKhi": 31,
+        "thePhach": 34,
+        "maxParry": 1310,
+        "maxHp": 2100,
+        "maxMp": 560,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 305250,
+        "tuViTong": 2881450,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5278,
+        "innerId": 118,
+        "level": 22,
+        "point": 43,
+        "lucTay": 18,
+        "thanPhap": 17,
+        "noiTuc": 78,
+        "canhKhi": 32,
+        "thePhach": 35,
+        "maxParry": 1360,
+        "maxHp": 2180,
+        "maxMp": 585,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 325250,
+        "tuViTong": 3186700,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5279,
+        "innerId": 118,
+        "level": 23,
+        "point": 44,
+        "lucTay": 18,
+        "thanPhap": 18,
+        "noiTuc": 81,
+        "canhKhi": 33,
+        "thePhach": 36,
+        "maxParry": 1390,
+        "maxHp": 2240,
+        "maxMp": 600,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 345900,
+        "tuViTong": 3511950,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5280,
+        "innerId": 118,
+        "level": 24,
+        "point": 45,
+        "lucTay": 19,
+        "thanPhap": 19,
+        "noiTuc": 83,
+        "canhKhi": 34,
+        "thePhach": 37,
+        "maxParry": 1440,
+        "maxHp": 2310,
+        "maxMp": 620,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 367200,
+        "tuViTong": 3857850,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5281,
+        "innerId": 118,
+        "level": 25,
+        "point": 46,
+        "lucTay": 19,
+        "thanPhap": 19,
+        "noiTuc": 85,
+        "canhKhi": 35,
+        "thePhach": 38,
+        "maxParry": 1490,
+        "maxHp": 2370,
+        "maxMp": 635,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 389100,
+        "tuViTong": 4225050,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5282,
+        "innerId": 118,
+        "level": 26,
+        "point": 47,
+        "lucTay": 20,
+        "thanPhap": 20,
+        "noiTuc": 88,
+        "canhKhi": 36,
+        "thePhach": 39,
+        "maxParry": 1520,
+        "maxHp": 2440,
+        "maxMp": 655,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 411650,
+        "tuViTong": 4614150,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5283,
+        "innerId": 118,
+        "level": 27,
+        "point": 48,
+        "lucTay": 20,
+        "thanPhap": 20,
+        "noiTuc": 90,
+        "canhKhi": 37,
+        "thePhach": 40,
+        "maxParry": 1580,
+        "maxHp": 2500,
+        "maxMp": 670,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 434850,
+        "tuViTong": 5025800,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5284,
+        "innerId": 118,
+        "level": 28,
+        "point": 49,
+        "lucTay": 21,
+        "thanPhap": 21,
+        "noiTuc": 93,
+        "canhKhi": 38,
+        "thePhach": 41,
+        "maxParry": 1610,
+        "maxHp": 2570,
+        "maxMp": 690,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 458700,
+        "tuViTong": 5460650,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5285,
+        "innerId": 118,
+        "level": 29,
+        "point": 50,
+        "lucTay": 22,
+        "thanPhap": 21,
+        "noiTuc": 95,
+        "canhKhi": 39,
+        "thePhach": 42,
+        "maxParry": 1640,
+        "maxHp": 2630,
+        "maxMp": 705,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 483150,
+        "tuViTong": 5919350,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5286,
+        "innerId": 118,
+        "level": 30,
+        "point": 51,
+        "lucTay": 22,
+        "thanPhap": 22,
+        "noiTuc": 97,
+        "canhKhi": 40,
+        "thePhach": 43,
+        "maxParry": 1710,
+        "maxHp": 2700,
+        "maxMp": 720,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 508250,
+        "tuViTong": 6402500,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5287,
+        "innerId": 118,
+        "level": 31,
+        "point": 52,
+        "lucTay": 23,
+        "thanPhap": 22,
+        "noiTuc": 100,
+        "canhKhi": 41,
+        "thePhach": 44,
+        "maxParry": 1720,
+        "maxHp": 2760,
+        "maxMp": 740,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 533950,
+        "tuViTong": 6910750,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5288,
+        "innerId": 118,
+        "level": 32,
+        "point": 53,
+        "lucTay": 23,
+        "thanPhap": 23,
+        "noiTuc": 102,
+        "canhKhi": 42,
+        "thePhach": 46,
+        "maxParry": 1770,
+        "maxHp": 2840,
+        "maxMp": 760,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 560300,
+        "tuViTong": 7444700,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5289,
+        "innerId": 118,
+        "level": 33,
+        "point": 54,
+        "lucTay": 24,
+        "thanPhap": 23,
+        "noiTuc": 104,
+        "canhKhi": 43,
+        "thePhach": 46,
+        "maxParry": 1820,
+        "maxHp": 2900,
+        "maxMp": 775,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 587300,
+        "tuViTong": 8005000,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5290,
+        "innerId": 118,
+        "level": 34,
+        "point": 55,
+        "lucTay": 24,
+        "thanPhap": 24,
+        "noiTuc": 107,
+        "canhKhi": 44,
+        "thePhach": 48,
+        "maxParry": 1850,
+        "maxHp": 2970,
+        "maxMp": 795,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 614950,
+        "tuViTong": 8592300,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5291,
+        "innerId": 118,
+        "level": 35,
+        "point": 56,
+        "lucTay": 25,
+        "thanPhap": 24,
+        "noiTuc": 109,
+        "canhKhi": 45,
+        "thePhach": 49,
+        "maxParry": 1880,
+        "maxHp": 3030,
+        "maxMp": 810,
+        "innerDef": 75,
+        "effectLevel": 3,
+        "tuViTienCap": 643200,
+        "tuViTong": 9207250,
+        "effectInfo": "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực<Br/>khi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 118,
+      "name": "Nội Đan Thuật",
+      "slug": "noi-dan-thuat",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "1",
+      "desc": "Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện \"Tinh, Khí, Thần\" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.",
+      "photo": "neigong/ng_wd_002.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5292,
+        "innerId": 118,
+        "level": 36,
+        "point": 57,
+        "lucTay": 25,
+        "thanPhap": 25,
+        "noiTuc": 112,
+        "canhKhi": 46,
+        "thePhach": 50,
+        "maxParry": 1930,
+        "maxHp": 3120,
+        "maxMp": 835,
+        "innerDef": 75,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 9850450,
+        "effectInfo": "Công kích có xác suất 20% phục hồi 2%Nội Lực và mỗi lần công kích kèm thêm sát thương 4% điểm Nội Lực"
+      }
+    }
+  }
+]

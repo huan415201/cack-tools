@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4700,
+        "innerId": 103,
+        "level": 1,
+        "point": 32,
+        "lucTay": 39,
+        "thanPhap": 26,
+        "noiTuc": 13,
+        "canhKhi": 13,
+        "thePhach": 39,
+        "maxParry": 740,
+        "maxHp": 1780,
+        "maxMp": 360,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 58550,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4701,
+        "innerId": 103,
+        "level": 2,
+        "point": 33,
+        "lucTay": 41,
+        "thanPhap": 27,
+        "noiTuc": 14,
+        "canhKhi": 14,
+        "thePhach": 39,
+        "maxParry": 760,
+        "maxHp": 1830,
+        "maxMp": 370,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 69650,
+        "tuViTong": 58550,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4702,
+        "innerId": 103,
+        "level": 3,
+        "point": 34,
+        "lucTay": 42,
+        "thanPhap": 28,
+        "noiTuc": 14,
+        "canhKhi": 14,
+        "thePhach": 41,
+        "maxParry": 790,
+        "maxHp": 1910,
+        "maxMp": 390,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 81750,
+        "tuViTong": 128200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4703,
+        "innerId": 103,
+        "level": 4,
+        "point": 35,
+        "lucTay": 43,
+        "thanPhap": 28,
+        "noiTuc": 14,
+        "canhKhi": 14,
+        "thePhach": 43,
+        "maxParry": 820,
+        "maxHp": 1960,
+        "maxMp": 400,
+        "innerDef": 45,
+        "effectLevel": 0,
+        "tuViTienCap": 94800,
+        "tuViTong": 209950,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4704,
+        "innerId": 103,
+        "level": 5,
+        "point": 36,
+        "lucTay": 44,
+        "thanPhap": 30,
+        "noiTuc": 15,
+        "canhKhi": 15,
+        "thePhach": 44,
+        "maxParry": 830,
+        "maxHp": 2020,
+        "maxMp": 410,
+        "innerDef": 45,
+        "effectLevel": 0,
+        "tuViTienCap": 108800,
+        "tuViTong": 304750,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4705,
+        "innerId": 103,
+        "level": 6,
+        "point": 37,
+        "lucTay": 46,
+        "thanPhap": 31,
+        "noiTuc": 15,
+        "canhKhi": 15,
+        "thePhach": 46,
+        "maxParry": 840,
+        "maxHp": 2080,
+        "maxMp": 430,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 123800,
+        "tuViTong": 413550,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4706,
+        "innerId": 103,
+        "level": 7,
+        "point": 38,
+        "lucTay": 47,
+        "thanPhap": 31,
+        "noiTuc": 16,
+        "canhKhi": 16,
+        "thePhach": 47,
+        "maxParry": 900,
+        "maxHp": 2150,
+        "maxMp": 440,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 139750,
+        "tuViTong": 537350,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4707,
+        "innerId": 103,
+        "level": 8,
+        "point": 39,
+        "lucTay": 48,
+        "thanPhap": 32,
+        "noiTuc": 16,
+        "canhKhi": 16,
+        "thePhach": 49,
+        "maxParry": 910,
+        "maxHp": 2210,
+        "maxMp": 450,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 156700,
+        "tuViTong": 677100,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4708,
+        "innerId": 103,
+        "level": 9,
+        "point": 40,
+        "lucTay": 50,
+        "thanPhap": 33,
+        "noiTuc": 17,
+        "canhKhi": 17,
+        "thePhach": 50,
+        "maxParry": 940,
+        "maxHp": 2280,
+        "maxMp": 470,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 174550,
+        "tuViTong": 833800,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4709,
+        "innerId": 103,
+        "level": 10,
+        "point": 41,
+        "lucTay": 51,
+        "thanPhap": 34,
+        "noiTuc": 17,
+        "canhKhi": 17,
+        "thePhach": 50,
+        "maxParry": 980,
+        "maxHp": 2320,
+        "maxMp": 470,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 193400,
+        "tuViTong": 1008350,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4710,
+        "innerId": 103,
+        "level": 11,
+        "point": 42,
+        "lucTay": 53,
+        "thanPhap": 35,
+        "noiTuc": 18,
+        "canhKhi": 18,
+        "thePhach": 51,
+        "maxParry": 1010,
+        "maxHp": 2390,
+        "maxMp": 490,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 213250,
+        "tuViTong": 1201750,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4711,
+        "innerId": 103,
+        "level": 12,
+        "point": 43,
+        "lucTay": 54,
+        "thanPhap": 36,
+        "noiTuc": 18,
+        "canhKhi": 18,
+        "thePhach": 55,
+        "maxParry": 1020,
+        "maxHp": 2490,
+        "maxMp": 510,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 234050,
+        "tuViTong": 1415000,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4712,
+        "innerId": 103,
+        "level": 13,
+        "point": 44,
+        "lucTay": 56,
+        "thanPhap": 37,
+        "noiTuc": 19,
+        "canhKhi": 19,
+        "thePhach": 55,
+        "maxParry": 1070,
+        "maxHp": 2550,
+        "maxMp": 520,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 255800,
+        "tuViTong": 1649050,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4713,
+        "innerId": 103,
+        "level": 14,
+        "point": 45,
+        "lucTay": 57,
+        "thanPhap": 38,
+        "noiTuc": 19,
+        "canhKhi": 19,
+        "thePhach": 58,
+        "maxParry": 1110,
+        "maxHp": 2630,
+        "maxMp": 540,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 278500,
+        "tuViTong": 1904850,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4714,
+        "innerId": 103,
+        "level": 15,
+        "point": 46,
+        "lucTay": 59,
+        "thanPhap": 39,
+        "noiTuc": 20,
+        "canhKhi": 20,
+        "thePhach": 59,
+        "maxParry": 1130,
+        "maxHp": 2700,
+        "maxMp": 550,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 302200,
+        "tuViTong": 2183350,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4715,
+        "innerId": 103,
+        "level": 16,
+        "point": 47,
+        "lucTay": 61,
+        "thanPhap": 41,
+        "noiTuc": 20,
+        "canhKhi": 20,
+        "thePhach": 61,
+        "maxParry": 1140,
+        "maxHp": 2780,
+        "maxMp": 570,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 326850,
+        "tuViTong": 2485550,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4716,
+        "innerId": 103,
+        "level": 17,
+        "point": 48,
+        "lucTay": 62,
+        "thanPhap": 42,
+        "noiTuc": 21,
+        "canhKhi": 21,
+        "thePhach": 62,
+        "maxParry": 1190,
+        "maxHp": 2850,
+        "maxMp": 580,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 352500,
+        "tuViTong": 2812400,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4717,
+        "innerId": 103,
+        "level": 18,
+        "point": 49,
+        "lucTay": 64,
+        "thanPhap": 43,
+        "noiTuc": 21,
+        "canhKhi": 21,
+        "thePhach": 64,
+        "maxParry": 1220,
+        "maxHp": 2930,
+        "maxMp": 600,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 379100,
+        "tuViTong": 3164900,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4718,
+        "innerId": 103,
+        "level": 19,
+        "point": 50,
+        "lucTay": 66,
+        "thanPhap": 44,
+        "noiTuc": 22,
+        "canhKhi": 22,
+        "thePhach": 65,
+        "maxParry": 1240,
+        "maxHp": 3000,
+        "maxMp": 610,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 406650,
+        "tuViTong": 3544000,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4719,
+        "innerId": 103,
+        "level": 20,
+        "point": 51,
+        "lucTay": 68,
+        "thanPhap": 45,
+        "noiTuc": 23,
+        "canhKhi": 23,
+        "thePhach": 66,
+        "maxParry": 1290,
+        "maxHp": 3090,
+        "maxMp": 630,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 435150,
+        "tuViTong": 3950650,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4720,
+        "innerId": 103,
+        "level": 21,
+        "point": 52,
+        "lucTay": 69,
+        "thanPhap": 46,
+        "noiTuc": 23,
+        "canhKhi": 23,
+        "thePhach": 69,
+        "maxParry": 1300,
+        "maxHp": 3150,
+        "maxMp": 640,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 464650,
+        "tuViTong": 4385800,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4721,
+        "innerId": 103,
+        "level": 22,
+        "point": 53,
+        "lucTay": 71,
+        "thanPhap": 47,
+        "noiTuc": 24,
+        "canhKhi": 24,
+        "thePhach": 70,
+        "maxParry": 1360,
+        "maxHp": 3240,
+        "maxMp": 660,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 495150,
+        "tuViTong": 4850450,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4722,
+        "innerId": 103,
+        "level": 23,
+        "point": 54,
+        "lucTay": 72,
+        "thanPhap": 48,
+        "noiTuc": 24,
+        "canhKhi": 24,
+        "thePhach": 73,
+        "maxParry": 1370,
+        "maxHp": 3300,
+        "maxMp": 680,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 526550,
+        "tuViTong": 5345600,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4723,
+        "innerId": 103,
+        "level": 24,
+        "point": 55,
+        "lucTay": 74,
+        "thanPhap": 49,
+        "noiTuc": 25,
+        "canhKhi": 25,
+        "thePhach": 73,
+        "maxParry": 1420,
+        "maxHp": 3390,
+        "maxMp": 690,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 558950,
+        "tuViTong": 5872150,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4724,
+        "innerId": 103,
+        "level": 25,
+        "point": 56,
+        "lucTay": 76,
+        "thanPhap": 50,
+        "noiTuc": 25,
+        "canhKhi": 25,
+        "thePhach": 76,
+        "maxParry": 1440,
+        "maxHp": 3450,
+        "maxMp": 710,
+        "innerDef": 75,
+        "effectLevel": 2,
+        "tuViTienCap": 592300,
+        "tuViTong": 6431100,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 2 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4725,
+        "innerId": 103,
+        "level": 26,
+        "point": 57,
+        "lucTay": 77,
+        "thanPhap": 52,
+        "noiTuc": 26,
+        "canhKhi": 26,
+        "thePhach": 77,
+        "maxParry": 1470,
+        "maxHp": 3570,
+        "maxMp": 730,
+        "innerDef": 75,
+        "effectLevel": 3,
+        "tuViTienCap": 626650,
+        "tuViTong": 7023400,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4726,
+        "innerId": 103,
+        "level": 27,
+        "point": 58,
+        "lucTay": 79,
+        "thanPhap": 53,
+        "noiTuc": 26,
+        "canhKhi": 26,
+        "thePhach": 79,
+        "maxParry": 1480,
+        "maxHp": 3630,
+        "maxMp": 740,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 661950,
+        "tuViTong": 7650050,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4727,
+        "innerId": 103,
+        "level": 28,
+        "point": 59,
+        "lucTay": 81,
+        "thanPhap": 54,
+        "noiTuc": 27,
+        "canhKhi": 27,
+        "thePhach": 80,
+        "maxParry": 1530,
+        "maxHp": 3690,
+        "maxMp": 750,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 698200,
+        "tuViTong": 8312000,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4728,
+        "innerId": 103,
+        "level": 29,
+        "point": 60,
+        "lucTay": 82,
+        "thanPhap": 55,
+        "noiTuc": 27,
+        "canhKhi": 27,
+        "thePhach": 83,
+        "maxParry": 1540,
+        "maxHp": 3750,
+        "maxMp": 770,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 735450,
+        "tuViTong": 9010200,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4729,
+        "innerId": 103,
+        "level": 30,
+        "point": 61,
+        "lucTay": 84,
+        "thanPhap": 56,
+        "noiTuc": 28,
+        "canhKhi": 28,
+        "thePhach": 85,
+        "maxParry": 1570,
+        "maxHp": 3840,
+        "maxMp": 780,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 773600,
+        "tuViTong": 9745650,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4730,
+        "innerId": 103,
+        "level": 31,
+        "point": 62,
+        "lucTay": 86,
+        "thanPhap": 58,
+        "noiTuc": 29,
+        "canhKhi": 29,
+        "thePhach": 86,
+        "maxParry": 1620,
+        "maxHp": 3930,
+        "maxMp": 800,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 812800,
+        "tuViTong": 10519250,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4731,
+        "innerId": 103,
+        "level": 32,
+        "point": 63,
+        "lucTay": 88,
+        "thanPhap": 59,
+        "noiTuc": 29,
+        "canhKhi": 29,
+        "thePhach": 88,
+        "maxParry": 1650,
+        "maxHp": 4050,
+        "maxMp": 820,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 852900,
+        "tuViTong": 11332050,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4732,
+        "innerId": 103,
+        "level": 33,
+        "point": 64,
+        "lucTay": 90,
+        "thanPhap": 60,
+        "noiTuc": 30,
+        "canhKhi": 30,
+        "thePhach": 89,
+        "maxParry": 1720,
+        "maxHp": 4110,
+        "maxMp": 840,
+        "innerDef": 90,
+        "effectLevel": 3,
+        "tuViTienCap": 894000,
+        "tuViTong": 12184950,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4733,
+        "innerId": 103,
+        "level": 34,
+        "point": 65,
+        "lucTay": 92,
+        "thanPhap": 61,
+        "noiTuc": 31,
+        "canhKhi": 31,
+        "thePhach": 92,
+        "maxParry": 1730,
+        "maxHp": 4200,
+        "maxMp": 860,
+        "innerDef": 90,
+        "effectLevel": 3,
+        "tuViTienCap": 936100,
+        "tuViTong": 13078950,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4734,
+        "innerId": 103,
+        "level": 35,
+        "point": 66,
+        "lucTay": 94,
+        "thanPhap": 63,
+        "noiTuc": 31,
+        "canhKhi": 31,
+        "thePhach": 95,
+        "maxParry": 1740,
+        "maxHp": 4320,
+        "maxMp": 880,
+        "innerDef": 95,
+        "effectLevel": 3,
+        "tuViTienCap": 979100,
+        "tuViTong": 14015050,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 3 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 103,
+      "name": "La Hán Phục Ma Công",
+      "slug": "la-han-phuc-ma-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
+      "photo": "neigong/ng_sl_003.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4735,
+        "innerId": 103,
+        "level": 36,
+        "point": 67,
+        "lucTay": 96,
+        "thanPhap": 64,
+        "noiTuc": 32,
+        "canhKhi": 32,
+        "thePhach": 95,
+        "maxParry": 1810,
+        "maxHp": 4380,
+        "maxMp": 890,
+        "innerDef": 95,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 14994150,
+        "effectInfo": "Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới \"Chư tương phi tương\", lĩnh ngộ 1 trong tứ tướng. Có xác suất lĩnh ngộ được 4 hộp<br/><font color=\"#FF0000\"> (chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)</font>"
+      }
+    }
+  }
+]

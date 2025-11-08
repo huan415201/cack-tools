@@ -11,6 +11,11 @@ export default defineConfig({
       "@layout": "/src/layout",
       "@pages": "/src/pages",
       "@routing": "/src/routing",
+      "@models": "/src/models",
+      "@data": "/src/data",
+      "@assets": "/src/assets",
+      "@constants": "/src/constants",
+      "@utils": "/src/utils",
     },
   },
 });

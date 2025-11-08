@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4628,
+        "innerId": 101,
+        "level": 1,
+        "point": 7,
+        "lucTay": 9,
+        "thanPhap": 3,
+        "noiTuc": 2,
+        "canhKhi": 3,
+        "thePhach": 15,
+        "maxParry": 160,
+        "maxHp": 350,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4629,
+        "innerId": 101,
+        "level": 2,
+        "point": 8,
+        "lucTay": 10,
+        "thanPhap": 3,
+        "noiTuc": 2,
+        "canhKhi": 3,
+        "thePhach": 16,
+        "maxParry": 190,
+        "maxHp": 380,
+        "maxMp": 115,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4630,
+        "innerId": 101,
+        "level": 3,
+        "point": 9,
+        "lucTay": 11,
+        "thanPhap": 3,
+        "noiTuc": 2,
+        "canhKhi": 4,
+        "thePhach": 18,
+        "maxParry": 230,
+        "maxHp": 420,
+        "maxMp": 130,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4631,
+        "innerId": 101,
+        "level": 4,
+        "point": 10,
+        "lucTay": 12,
+        "thanPhap": 4,
+        "noiTuc": 2,
+        "canhKhi": 4,
+        "thePhach": 19,
+        "maxParry": 230,
+        "maxHp": 460,
+        "maxMp": 140,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4632,
+        "innerId": 101,
+        "level": 5,
+        "point": 11,
+        "lucTay": 13,
+        "thanPhap": 4,
+        "noiTuc": 2,
+        "canhKhi": 4,
+        "thePhach": 21,
+        "maxParry": 270,
+        "maxHp": 500,
+        "maxMp": 150,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4633,
+        "innerId": 101,
+        "level": 6,
+        "point": 12,
+        "lucTay": 14,
+        "thanPhap": 4,
+        "noiTuc": 3,
+        "canhKhi": 4,
+        "thePhach": 22,
+        "maxParry": 310,
+        "maxHp": 530,
+        "maxMp": 160,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4634,
+        "innerId": 101,
+        "level": 7,
+        "point": 13,
+        "lucTay": 15,
+        "thanPhap": 5,
+        "noiTuc": 3,
+        "canhKhi": 5,
+        "thePhach": 24,
+        "maxParry": 310,
+        "maxHp": 580,
+        "maxMp": 175,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4635,
+        "innerId": 101,
+        "level": 8,
+        "point": 14,
+        "lucTay": 16,
+        "thanPhap": 5,
+        "noiTuc": 3,
+        "canhKhi": 5,
+        "thePhach": 26,
+        "maxParry": 320,
+        "maxHp": 610,
+        "maxMp": 185,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4636,
+        "innerId": 101,
+        "level": 9,
+        "point": 15,
+        "lucTay": 17,
+        "thanPhap": 5,
+        "noiTuc": 3,
+        "canhKhi": 6,
+        "thePhach": 28,
+        "maxParry": 360,
+        "maxHp": 650,
+        "maxMp": 195,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4637,
+        "innerId": 101,
+        "level": 10,
+        "point": 16,
+        "lucTay": 18,
+        "thanPhap": 6,
+        "noiTuc": 3,
+        "canhKhi": 6,
+        "thePhach": 29,
+        "maxParry": 370,
+        "maxHp": 690,
+        "maxMp": 210,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4638,
+        "innerId": 101,
+        "level": 11,
+        "point": 17,
+        "lucTay": 19,
+        "thanPhap": 6,
+        "noiTuc": 4,
+        "canhKhi": 6,
+        "thePhach": 31,
+        "maxParry": 400,
+        "maxHp": 730,
+        "maxMp": 220,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4639,
+        "innerId": 101,
+        "level": 12,
+        "point": 18,
+        "lucTay": 20,
+        "thanPhap": 6,
+        "noiTuc": 4,
+        "canhKhi": 6,
+        "thePhach": 32,
+        "maxParry": 440,
+        "maxHp": 760,
+        "maxMp": 230,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4640,
+        "innerId": 101,
+        "level": 13,
+        "point": 19,
+        "lucTay": 21,
+        "thanPhap": 7,
+        "noiTuc": 4,
+        "canhKhi": 7,
+        "thePhach": 34,
+        "maxParry": 440,
+        "maxHp": 810,
+        "maxMp": 245,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4641,
+        "innerId": 101,
+        "level": 14,
+        "point": 20,
+        "lucTay": 22,
+        "thanPhap": 7,
+        "noiTuc": 4,
+        "canhKhi": 7,
+        "thePhach": 36,
+        "maxParry": 460,
+        "maxHp": 840,
+        "maxMp": 255,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4642,
+        "innerId": 101,
+        "level": 15,
+        "point": 21,
+        "lucTay": 23,
+        "thanPhap": 7,
+        "noiTuc": 4,
+        "canhKhi": 7,
+        "thePhach": 37,
+        "maxParry": 500,
+        "maxHp": 880,
+        "maxMp": 265,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4643,
+        "innerId": 101,
+        "level": 16,
+        "point": 22,
+        "lucTay": 25,
+        "thanPhap": 8,
+        "noiTuc": 5,
+        "canhKhi": 8,
+        "thePhach": 40,
+        "maxParry": 520,
+        "maxHp": 940,
+        "maxMp": 285,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4644,
+        "innerId": 101,
+        "level": 17,
+        "point": 23,
+        "lucTay": 26,
+        "thanPhap": 8,
+        "noiTuc": 5,
+        "canhKhi": 8,
+        "thePhach": 42,
+        "maxParry": 540,
+        "maxHp": 980,
+        "maxMp": 295,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4645,
+        "innerId": 101,
+        "level": 18,
+        "point": 24,
+        "lucTay": 27,
+        "thanPhap": 9,
+        "noiTuc": 5,
+        "canhKhi": 9,
+        "thePhach": 44,
+        "maxParry": 580,
+        "maxHp": 1040,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4646,
+        "innerId": 101,
+        "level": 19,
+        "point": 25,
+        "lucTay": 28,
+        "thanPhap": 9,
+        "noiTuc": 5,
+        "canhKhi": 9,
+        "thePhach": 46,
+        "maxParry": 620,
+        "maxHp": 1080,
+        "maxMp": 325,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4647,
+        "innerId": 101,
+        "level": 20,
+        "point": 26,
+        "lucTay": 30,
+        "thanPhap": 9,
+        "noiTuc": 6,
+        "canhKhi": 10,
+        "thePhach": 48,
+        "maxParry": 660,
+        "maxHp": 1140,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4648,
+        "innerId": 101,
+        "level": 21,
+        "point": 27,
+        "lucTay": 31,
+        "thanPhap": 10,
+        "noiTuc": 6,
+        "canhKhi": 10,
+        "thePhach": 50,
+        "maxParry": 660,
+        "maxHp": 1180,
+        "maxMp": 355,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4649,
+        "innerId": 101,
+        "level": 22,
+        "point": 28,
+        "lucTay": 33,
+        "thanPhap": 10,
+        "noiTuc": 6,
+        "canhKhi": 10,
+        "thePhach": 52,
+        "maxParry": 700,
+        "maxHp": 1240,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4650,
+        "innerId": 101,
+        "level": 23,
+        "point": 29,
+        "lucTay": 34,
+        "thanPhap": 11,
+        "noiTuc": 6,
+        "canhKhi": 11,
+        "thePhach": 54,
+        "maxParry": 710,
+        "maxHp": 1280,
+        "maxMp": 385,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4651,
+        "innerId": 101,
+        "level": 24,
+        "point": 30,
+        "lucTay": 35,
+        "thanPhap": 11,
+        "noiTuc": 7,
+        "canhKhi": 11,
+        "thePhach": 57,
+        "maxParry": 760,
+        "maxHp": 1340,
+        "maxMp": 405,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4652,
+        "innerId": 101,
+        "level": 25,
+        "point": 31,
+        "lucTay": 36,
+        "thanPhap": 11,
+        "noiTuc": 7,
+        "canhKhi": 12,
+        "thePhach": 59,
+        "maxParry": 800,
+        "maxHp": 1380,
+        "maxMp": 415,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4653,
+        "innerId": 101,
+        "level": 26,
+        "point": 32,
+        "lucTay": 38,
+        "thanPhap": 12,
+        "noiTuc": 7,
+        "canhKhi": 12,
+        "thePhach": 61,
+        "maxParry": 810,
+        "maxHp": 1430,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4654,
+        "innerId": 101,
+        "level": 27,
+        "point": 33,
+        "lucTay": 39,
+        "thanPhap": 12,
+        "noiTuc": 7,
+        "canhKhi": 13,
+        "thePhach": 63,
+        "maxParry": 850,
+        "maxHp": 1480,
+        "maxMp": 445,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4655,
+        "innerId": 101,
+        "level": 28,
+        "point": 34,
+        "lucTay": 40,
+        "thanPhap": 13,
+        "noiTuc": 8,
+        "canhKhi": 13,
+        "thePhach": 65,
+        "maxParry": 880,
+        "maxHp": 1530,
+        "maxMp": 460,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4656,
+        "innerId": 101,
+        "level": 29,
+        "point": 35,
+        "lucTay": 42,
+        "thanPhap": 13,
+        "noiTuc": 8,
+        "canhKhi": 13,
+        "thePhach": 67,
+        "maxParry": 890,
+        "maxHp": 1580,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4657,
+        "innerId": 101,
+        "level": 30,
+        "point": 36,
+        "lucTay": 43,
+        "thanPhap": 14,
+        "noiTuc": 8,
+        "canhKhi": 14,
+        "thePhach": 69,
+        "maxParry": 920,
+        "maxHp": 1630,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4658,
+        "innerId": 101,
+        "level": 31,
+        "point": 37,
+        "lucTay": 44,
+        "thanPhap": 14,
+        "noiTuc": 8,
+        "canhKhi": 14,
+        "thePhach": 71,
+        "maxParry": 970,
+        "maxHp": 1680,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4659,
+        "innerId": 101,
+        "level": 32,
+        "point": 38,
+        "lucTay": 46,
+        "thanPhap": 14,
+        "noiTuc": 9,
+        "canhKhi": 15,
+        "thePhach": 74,
+        "maxParry": 990,
+        "maxHp": 1730,
+        "maxMp": 520,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4660,
+        "innerId": 101,
+        "level": 33,
+        "point": 39,
+        "lucTay": 47,
+        "thanPhap": 15,
+        "noiTuc": 9,
+        "canhKhi": 15,
+        "thePhach": 75,
+        "maxParry": 1010,
+        "maxHp": 1780,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4661,
+        "innerId": 101,
+        "level": 34,
+        "point": 40,
+        "lucTay": 48,
+        "thanPhap": 15,
+        "noiTuc": 9,
+        "canhKhi": 16,
+        "thePhach": 78,
+        "maxParry": 1070,
+        "maxHp": 1830,
+        "maxMp": 550,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4662,
+        "innerId": 101,
+        "level": 35,
+        "point": 41,
+        "lucTay": 49,
+        "thanPhap": 16,
+        "noiTuc": 9,
+        "canhKhi": 16,
+        "thePhach": 80,
+        "maxParry": 1070,
+        "maxHp": 1870,
+        "maxMp": 565,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "Công kích có xác suất 15% hóa giải phần huyết ứ"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 101,
+      "name": "Thiền Định Công",
+      "slug": "thien-dinh-cong",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, \"Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã\", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.",
+      "photo": "neigong/ng_sl_001.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4663,
+        "innerId": 101,
+        "level": 36,
+        "point": 42,
+        "lucTay": 51,
+        "thanPhap": 16,
+        "noiTuc": 10,
+        "canhKhi": 16,
+        "thePhach": 82,
+        "maxParry": 1110,
+        "maxHp": 1930,
+        "maxMp": 580,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "Công kích có xác suất 15% hồi phục lượng nhỏ Khí huyết"
+      }
+    }
+  }
+]

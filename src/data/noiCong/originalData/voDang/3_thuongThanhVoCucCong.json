@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5293,
+        "innerId": 119,
+        "level": 1,
+        "point": 32,
+        "lucTay": 52,
+        "thanPhap": 13,
+        "noiTuc": 26,
+        "canhKhi": 13,
+        "thePhach": 26,
+        "maxParry": 790,
+        "maxHp": 1620,
+        "maxMp": 410,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 58550,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5294,
+        "innerId": 119,
+        "level": 2,
+        "point": 33,
+        "lucTay": 54,
+        "thanPhap": 14,
+        "noiTuc": 27,
+        "canhKhi": 14,
+        "thePhach": 26,
+        "maxParry": 810,
+        "maxHp": 1670,
+        "maxMp": 420,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 69650,
+        "tuViTong": 58550,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5295,
+        "innerId": 119,
+        "level": 3,
+        "point": 34,
+        "lucTay": 56,
+        "thanPhap": 14,
+        "noiTuc": 28,
+        "canhKhi": 14,
+        "thePhach": 27,
+        "maxParry": 850,
+        "maxHp": 1740,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 0,
+        "tuViTienCap": 81750,
+        "tuViTong": 128200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5296,
+        "innerId": 119,
+        "level": 4,
+        "point": 35,
+        "lucTay": 57,
+        "thanPhap": 14,
+        "noiTuc": 28,
+        "canhKhi": 14,
+        "thePhach": 29,
+        "maxParry": 870,
+        "maxHp": 1780,
+        "maxMp": 450,
+        "innerDef": 45,
+        "effectLevel": 0,
+        "tuViTienCap": 94800,
+        "tuViTong": 209950,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5297,
+        "innerId": 119,
+        "level": 5,
+        "point": 36,
+        "lucTay": 59,
+        "thanPhap": 15,
+        "noiTuc": 30,
+        "canhKhi": 15,
+        "thePhach": 29,
+        "maxParry": 890,
+        "maxHp": 1840,
+        "maxMp": 460,
+        "innerDef": 45,
+        "effectLevel": 0,
+        "tuViTienCap": 108800,
+        "tuViTong": 304750,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5298,
+        "innerId": 119,
+        "level": 6,
+        "point": 37,
+        "lucTay": 61,
+        "thanPhap": 15,
+        "noiTuc": 31,
+        "canhKhi": 15,
+        "thePhach": 31,
+        "maxParry": 900,
+        "maxHp": 1900,
+        "maxMp": 470,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 123800,
+        "tuViTong": 413550,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5299,
+        "innerId": 119,
+        "level": 7,
+        "point": 38,
+        "lucTay": 63,
+        "thanPhap": 16,
+        "noiTuc": 31,
+        "canhKhi": 16,
+        "thePhach": 31,
+        "maxParry": 960,
+        "maxHp": 1960,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 139750,
+        "tuViTong": 537350,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5300,
+        "innerId": 119,
+        "level": 8,
+        "point": 39,
+        "lucTay": 64,
+        "thanPhap": 16,
+        "noiTuc": 32,
+        "canhKhi": 16,
+        "thePhach": 33,
+        "maxParry": 970,
+        "maxHp": 2010,
+        "maxMp": 500,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 156700,
+        "tuViTong": 677100,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5301,
+        "innerId": 119,
+        "level": 9,
+        "point": 40,
+        "lucTay": 67,
+        "thanPhap": 17,
+        "noiTuc": 33,
+        "canhKhi": 17,
+        "thePhach": 33,
+        "maxParry": 1000,
+        "maxHp": 2070,
+        "maxMp": 520,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 174550,
+        "tuViTong": 833800,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5302,
+        "innerId": 119,
+        "level": 10,
+        "point": 41,
+        "lucTay": 68,
+        "thanPhap": 17,
+        "noiTuc": 34,
+        "canhKhi": 17,
+        "thePhach": 33,
+        "maxParry": 1050,
+        "maxHp": 2110,
+        "maxMp": 530,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 193400,
+        "tuViTong": 1008350,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5303,
+        "innerId": 119,
+        "level": 11,
+        "point": 42,
+        "lucTay": 70,
+        "thanPhap": 18,
+        "noiTuc": 35,
+        "canhKhi": 18,
+        "thePhach": 34,
+        "maxParry": 1070,
+        "maxHp": 2170,
+        "maxMp": 540,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 213250,
+        "tuViTong": 1201750,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5304,
+        "innerId": 119,
+        "level": 12,
+        "point": 43,
+        "lucTay": 72,
+        "thanPhap": 18,
+        "noiTuc": 36,
+        "canhKhi": 18,
+        "thePhach": 37,
+        "maxParry": 1090,
+        "maxHp": 2260,
+        "maxMp": 570,
+        "innerDef": 50,
+        "effectLevel": 1,
+        "tuViTienCap": 234050,
+        "tuViTong": 1415000,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5305,
+        "innerId": 119,
+        "level": 13,
+        "point": 44,
+        "lucTay": 74,
+        "thanPhap": 19,
+        "noiTuc": 37,
+        "canhKhi": 19,
+        "thePhach": 37,
+        "maxParry": 1140,
+        "maxHp": 2320,
+        "maxMp": 580,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 255800,
+        "tuViTong": 1649050,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5306,
+        "innerId": 119,
+        "level": 14,
+        "point": 45,
+        "lucTay": 76,
+        "thanPhap": 19,
+        "noiTuc": 38,
+        "canhKhi": 19,
+        "thePhach": 39,
+        "maxParry": 1170,
+        "maxHp": 2400,
+        "maxMp": 600,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 278500,
+        "tuViTong": 1904850,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5307,
+        "innerId": 119,
+        "level": 15,
+        "point": 46,
+        "lucTay": 79,
+        "thanPhap": 20,
+        "noiTuc": 39,
+        "canhKhi": 20,
+        "thePhach": 39,
+        "maxParry": 1200,
+        "maxHp": 2460,
+        "maxMp": 610,
+        "innerDef": 55,
+        "effectLevel": 1,
+        "tuViTienCap": 302200,
+        "tuViTong": 2183350,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5308,
+        "innerId": 119,
+        "level": 16,
+        "point": 47,
+        "lucTay": 81,
+        "thanPhap": 20,
+        "noiTuc": 41,
+        "canhKhi": 20,
+        "thePhach": 41,
+        "maxParry": 1220,
+        "maxHp": 2530,
+        "maxMp": 630,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 326850,
+        "tuViTong": 2485550,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5309,
+        "innerId": 119,
+        "level": 17,
+        "point": 48,
+        "lucTay": 83,
+        "thanPhap": 21,
+        "noiTuc": 42,
+        "canhKhi": 21,
+        "thePhach": 41,
+        "maxParry": 1260,
+        "maxHp": 2590,
+        "maxMp": 650,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 352500,
+        "tuViTong": 2812400,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5310,
+        "innerId": 119,
+        "level": 18,
+        "point": 49,
+        "lucTay": 85,
+        "thanPhap": 21,
+        "noiTuc": 43,
+        "canhKhi": 21,
+        "thePhach": 43,
+        "maxParry": 1300,
+        "maxHp": 2670,
+        "maxMp": 670,
+        "innerDef": 60,
+        "effectLevel": 2,
+        "tuViTienCap": 379100,
+        "tuViTong": 3164900,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5311,
+        "innerId": 119,
+        "level": 19,
+        "point": 50,
+        "lucTay": 88,
+        "thanPhap": 22,
+        "noiTuc": 44,
+        "canhKhi": 22,
+        "thePhach": 43,
+        "maxParry": 1330,
+        "maxHp": 2730,
+        "maxMp": 680,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 406650,
+        "tuViTong": 3544000,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5312,
+        "innerId": 119,
+        "level": 20,
+        "point": 51,
+        "lucTay": 90,
+        "thanPhap": 23,
+        "noiTuc": 45,
+        "canhKhi": 23,
+        "thePhach": 44,
+        "maxParry": 1380,
+        "maxHp": 2790,
+        "maxMp": 700,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 435150,
+        "tuViTong": 3950650,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5313,
+        "innerId": 119,
+        "level": 21,
+        "point": 52,
+        "lucTay": 92,
+        "thanPhap": 23,
+        "noiTuc": 46,
+        "canhKhi": 23,
+        "thePhach": 46,
+        "maxParry": 1390,
+        "maxHp": 2860,
+        "maxMp": 720,
+        "innerDef": 65,
+        "effectLevel": 2,
+        "tuViTienCap": 464650,
+        "tuViTong": 4385800,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5314,
+        "innerId": 119,
+        "level": 22,
+        "point": 53,
+        "lucTay": 94,
+        "thanPhap": 24,
+        "noiTuc": 47,
+        "canhKhi": 24,
+        "thePhach": 47,
+        "maxParry": 1440,
+        "maxHp": 2940,
+        "maxMp": 740,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 495150,
+        "tuViTong": 4850450,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5315,
+        "innerId": 119,
+        "level": 23,
+        "point": 54,
+        "lucTay": 96,
+        "thanPhap": 24,
+        "noiTuc": 48,
+        "canhKhi": 24,
+        "thePhach": 49,
+        "maxParry": 1450,
+        "maxHp": 3000,
+        "maxMp": 750,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 526550,
+        "tuViTong": 5345600,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5316,
+        "innerId": 119,
+        "level": 24,
+        "point": 55,
+        "lucTay": 98,
+        "thanPhap": 25,
+        "noiTuc": 49,
+        "canhKhi": 25,
+        "thePhach": 49,
+        "maxParry": 1510,
+        "maxHp": 3090,
+        "maxMp": 770,
+        "innerDef": 70,
+        "effectLevel": 2,
+        "tuViTienCap": 558950,
+        "tuViTong": 5872150,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5317,
+        "innerId": 119,
+        "level": 25,
+        "point": 56,
+        "lucTay": 101,
+        "thanPhap": 25,
+        "noiTuc": 50,
+        "canhKhi": 25,
+        "thePhach": 51,
+        "maxParry": 1520,
+        "maxHp": 3150,
+        "maxMp": 780,
+        "innerDef": 75,
+        "effectLevel": 2,
+        "tuViTienCap": 592300,
+        "tuViTong": 6431100,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 150 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5318,
+        "innerId": 119,
+        "level": 26,
+        "point": 57,
+        "lucTay": 103,
+        "thanPhap": 26,
+        "noiTuc": 52,
+        "canhKhi": 26,
+        "thePhach": 51,
+        "maxParry": 1560,
+        "maxHp": 3240,
+        "maxMp": 810,
+        "innerDef": 75,
+        "effectLevel": 3,
+        "tuViTienCap": 626650,
+        "tuViTong": 7023400,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5319,
+        "innerId": 119,
+        "level": 27,
+        "point": 58,
+        "lucTay": 105,
+        "thanPhap": 26,
+        "noiTuc": 53,
+        "canhKhi": 26,
+        "thePhach": 53,
+        "maxParry": 1580,
+        "maxHp": 3300,
+        "maxMp": 820,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 661950,
+        "tuViTong": 7650050,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5320,
+        "innerId": 119,
+        "level": 28,
+        "point": 59,
+        "lucTay": 108,
+        "thanPhap": 27,
+        "noiTuc": 54,
+        "canhKhi": 27,
+        "thePhach": 53,
+        "maxParry": 1630,
+        "maxHp": 3360,
+        "maxMp": 840,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 698200,
+        "tuViTong": 8312000,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5321,
+        "innerId": 119,
+        "level": 29,
+        "point": 60,
+        "lucTay": 110,
+        "thanPhap": 27,
+        "noiTuc": 55,
+        "canhKhi": 27,
+        "thePhach": 55,
+        "maxParry": 1640,
+        "maxHp": 3420,
+        "maxMp": 850,
+        "innerDef": 80,
+        "effectLevel": 3,
+        "tuViTienCap": 735450,
+        "tuViTong": 9010200,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5322,
+        "innerId": 119,
+        "level": 30,
+        "point": 61,
+        "lucTay": 112,
+        "thanPhap": 28,
+        "noiTuc": 56,
+        "canhKhi": 28,
+        "thePhach": 57,
+        "maxParry": 1670,
+        "maxHp": 3480,
+        "maxMp": 870,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 773600,
+        "tuViTong": 9745650,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5323,
+        "innerId": 119,
+        "level": 31,
+        "point": 62,
+        "lucTay": 115,
+        "thanPhap": 29,
+        "noiTuc": 58,
+        "canhKhi": 29,
+        "thePhach": 57,
+        "maxParry": 1720,
+        "maxHp": 3570,
+        "maxMp": 890,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 812800,
+        "tuViTong": 10519250,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5324,
+        "innerId": 119,
+        "level": 32,
+        "point": 63,
+        "lucTay": 117,
+        "thanPhap": 29,
+        "noiTuc": 59,
+        "canhKhi": 29,
+        "thePhach": 59,
+        "maxParry": 1760,
+        "maxHp": 3660,
+        "maxMp": 920,
+        "innerDef": 85,
+        "effectLevel": 3,
+        "tuViTienCap": 852900,
+        "tuViTong": 11332050,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5325,
+        "innerId": 119,
+        "level": 33,
+        "point": 64,
+        "lucTay": 120,
+        "thanPhap": 30,
+        "noiTuc": 60,
+        "canhKhi": 30,
+        "thePhach": 59,
+        "maxParry": 1830,
+        "maxHp": 3720,
+        "maxMp": 930,
+        "innerDef": 90,
+        "effectLevel": 3,
+        "tuViTienCap": 894000,
+        "tuViTong": 12184950,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5326,
+        "innerId": 119,
+        "level": 34,
+        "point": 65,
+        "lucTay": 123,
+        "thanPhap": 31,
+        "noiTuc": 61,
+        "canhKhi": 31,
+        "thePhach": 61,
+        "maxParry": 1840,
+        "maxHp": 3840,
+        "maxMp": 950,
+        "innerDef": 90,
+        "effectLevel": 3,
+        "tuViTienCap": 936100,
+        "tuViTong": 13078950,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5327,
+        "innerId": 119,
+        "level": 35,
+        "point": 66,
+        "lucTay": 126,
+        "thanPhap": 31,
+        "noiTuc": 63,
+        "canhKhi": 31,
+        "thePhach": 63,
+        "maxParry": 1860,
+        "maxHp": 3930,
+        "maxMp": 980,
+        "innerDef": 95,
+        "effectLevel": 3,
+        "tuViTienCap": 979100,
+        "tuViTong": 14015050,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 120 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 119,
+      "name": "Thượng Thanh Vô Cực Công",
+      "slug": "thuong-thanh-vo-cuc-cong",
+      "maxLevel": 36,
+      "schoolId": 2,
+      "type": "2",
+      "desc": "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
+      "photo": "neigong/ng_wd_003.png",
+      "school": {
+        "id": 2,
+        "name": "Võ Đang",
+        "type": "0",
+        "slug": "vo-dang"
+      },
+      "detail": {
+        "id": 5328,
+        "innerId": 119,
+        "level": 36,
+        "point": 67,
+        "lucTay": 128,
+        "thanPhap": 32,
+        "noiTuc": 64,
+        "canhKhi": 32,
+        "thePhach": 63,
+        "maxParry": 1930,
+        "maxHp": 3990,
+        "maxMp": 990,
+        "innerDef": 95,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 14994150,
+        "effectInfo": "<font color=\"#FF3030\">Kim Đan Độ Kiếp</font>: khi Khí huyết dưới 30% chịu công kích,nội trong 5 giây phục hồi nhanh chóng Khí huyết cao nhất 30%, thời gian hồi 100 giây<br/><font color=\"#FF3030\">Thượng Thanh Vô Cực</font>: tốc độ nhảy Phù Dao Bộ Pháp + 3"
+      }
+    }
+  }
+]

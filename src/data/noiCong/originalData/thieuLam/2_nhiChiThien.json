@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4664,
+        "innerId": 102,
+        "level": 1,
+        "point": 22,
+        "lucTay": 18,
+        "thanPhap": 6,
+        "noiTuc": 18,
+        "canhKhi": 17,
+        "thePhach": 25,
+        "maxParry": 710,
+        "maxHp": 1020,
+        "maxMp": 275,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 38450,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4665,
+        "innerId": 102,
+        "level": 2,
+        "point": 23,
+        "lucTay": 19,
+        "thanPhap": 7,
+        "noiTuc": 19,
+        "canhKhi": 18,
+        "thePhach": 26,
+        "maxParry": 730,
+        "maxHp": 1070,
+        "maxMp": 290,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 45750,
+        "tuViTong": 38450,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4666,
+        "innerId": 102,
+        "level": 3,
+        "point": 24,
+        "lucTay": 20,
+        "thanPhap": 7,
+        "noiTuc": 20,
+        "canhKhi": 19,
+        "thePhach": 28,
+        "maxParry": 770,
+        "maxHp": 1130,
+        "maxMp": 305,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 53700,
+        "tuViTong": 84200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4667,
+        "innerId": 102,
+        "level": 4,
+        "point": 25,
+        "lucTay": 20,
+        "thanPhap": 7,
+        "noiTuc": 21,
+        "canhKhi": 20,
+        "thePhach": 29,
+        "maxParry": 830,
+        "maxHp": 1180,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 62300,
+        "tuViTong": 137900,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4668,
+        "innerId": 102,
+        "level": 5,
+        "point": 26,
+        "lucTay": 21,
+        "thanPhap": 8,
+        "noiTuc": 22,
+        "canhKhi": 21,
+        "thePhach": 30,
+        "maxParry": 880,
+        "maxHp": 1240,
+        "maxMp": 335,
+        "innerDef": 35,
+        "effectLevel": 0,
+        "tuViTienCap": 71500,
+        "tuViTong": 200200,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4669,
+        "innerId": 102,
+        "level": 6,
+        "point": 27,
+        "lucTay": 22,
+        "thanPhap": 8,
+        "noiTuc": 23,
+        "canhKhi": 22,
+        "thePhach": 32,
+        "maxParry": 890,
+        "maxHp": 1290,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 81350,
+        "tuViTong": 271700,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4670,
+        "innerId": 102,
+        "level": 7,
+        "point": 28,
+        "lucTay": 23,
+        "thanPhap": 9,
+        "noiTuc": 24,
+        "canhKhi": 23,
+        "thePhach": 33,
+        "maxParry": 950,
+        "maxHp": 1350,
+        "maxMp": 360,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 91800,
+        "tuViTong": 353050,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4671,
+        "innerId": 102,
+        "level": 8,
+        "point": 29,
+        "lucTay": 24,
+        "thanPhap": 9,
+        "noiTuc": 25,
+        "canhKhi": 24,
+        "thePhach": 34,
+        "maxParry": 980,
+        "maxHp": 1400,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 102950,
+        "tuViTong": 444850,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4672,
+        "innerId": 102,
+        "level": 9,
+        "point": 30,
+        "lucTay": 25,
+        "thanPhap": 9,
+        "noiTuc": 26,
+        "canhKhi": 25,
+        "thePhach": 36,
+        "maxParry": 1010,
+        "maxHp": 1460,
+        "maxMp": 390,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 114700,
+        "tuViTong": 547800,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4673,
+        "innerId": 102,
+        "level": 10,
+        "point": 31,
+        "lucTay": 26,
+        "thanPhap": 9,
+        "noiTuc": 27,
+        "canhKhi": 26,
+        "thePhach": 37,
+        "maxParry": 1040,
+        "maxHp": 1500,
+        "maxMp": 400,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 127100,
+        "tuViTong": 662500,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4674,
+        "innerId": 102,
+        "level": 11,
+        "point": 32,
+        "lucTay": 27,
+        "thanPhap": 10,
+        "noiTuc": 28,
+        "canhKhi": 27,
+        "thePhach": 38,
+        "maxParry": 1100,
+        "maxHp": 1560,
+        "maxMp": 420,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 140100,
+        "tuViTong": 789600,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4675,
+        "innerId": 102,
+        "level": 12,
+        "point": 33,
+        "lucTay": 28,
+        "thanPhap": 10,
+        "noiTuc": 29,
+        "canhKhi": 27,
+        "thePhach": 39,
+        "maxParry": 1120,
+        "maxHp": 1610,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 153750,
+        "tuViTong": 929700,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4676,
+        "innerId": 102,
+        "level": 13,
+        "point": 34,
+        "lucTay": 29,
+        "thanPhap": 11,
+        "noiTuc": 30,
+        "canhKhi": 28,
+        "thePhach": 41,
+        "maxParry": 1160,
+        "maxHp": 1670,
+        "maxMp": 450,
+        "innerDef": 40,
+        "effectLevel": 1,
+        "tuViTienCap": 168050,
+        "tuViTong": 1083450,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4677,
+        "innerId": 102,
+        "level": 14,
+        "point": 35,
+        "lucTay": 30,
+        "thanPhap": 11,
+        "noiTuc": 31,
+        "canhKhi": 29,
+        "thePhach": 42,
+        "maxParry": 1190,
+        "maxHp": 1720,
+        "maxMp": 460,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 183000,
+        "tuViTong": 1251500,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4678,
+        "innerId": 102,
+        "level": 15,
+        "point": 36,
+        "lucTay": 31,
+        "thanPhap": 11,
+        "noiTuc": 32,
+        "canhKhi": 30,
+        "thePhach": 44,
+        "maxParry": 1220,
+        "maxHp": 1780,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 1,
+        "tuViTienCap": 198550,
+        "tuViTong": 1434500,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4679,
+        "innerId": 102,
+        "level": 16,
+        "point": 37,
+        "lucTay": 32,
+        "thanPhap": 12,
+        "noiTuc": 33,
+        "canhKhi": 31,
+        "thePhach": 45,
+        "maxParry": 1250,
+        "maxHp": 1830,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 2,
+        "tuViTienCap": 214750,
+        "tuViTong": 1633050,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4680,
+        "innerId": 102,
+        "level": 17,
+        "point": 38,
+        "lucTay": 33,
+        "thanPhap": 12,
+        "noiTuc": 34,
+        "canhKhi": 32,
+        "thePhach": 46,
+        "maxParry": 1310,
+        "maxHp": 1890,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 2,
+        "tuViTienCap": 231550,
+        "tuViTong": 1847800,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4681,
+        "innerId": 102,
+        "level": 18,
+        "point": 39,
+        "lucTay": 34,
+        "thanPhap": 12,
+        "noiTuc": 35,
+        "canhKhi": 33,
+        "thePhach": 47,
+        "maxParry": 1340,
+        "maxHp": 1940,
+        "maxMp": 520,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 249050,
+        "tuViTong": 2079350,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4682,
+        "innerId": 102,
+        "level": 19,
+        "point": 40,
+        "lucTay": 35,
+        "thanPhap": 13,
+        "noiTuc": 36,
+        "canhKhi": 34,
+        "thePhach": 49,
+        "maxParry": 1370,
+        "maxHp": 2000,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 267150,
+        "tuViTong": 2328400,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4683,
+        "innerId": 102,
+        "level": 20,
+        "point": 41,
+        "lucTay": 35,
+        "thanPhap": 13,
+        "noiTuc": 37,
+        "canhKhi": 35,
+        "thePhach": 50,
+        "maxParry": 1430,
+        "maxHp": 2040,
+        "maxMp": 545,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 285900,
+        "tuViTong": 2595550,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4684,
+        "innerId": 102,
+        "level": 21,
+        "point": 42,
+        "lucTay": 36,
+        "thanPhap": 13,
+        "noiTuc": 38,
+        "canhKhi": 36,
+        "thePhach": 52,
+        "maxParry": 1470,
+        "maxHp": 2100,
+        "maxMp": 560,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 305250,
+        "tuViTong": 2881450,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4685,
+        "innerId": 102,
+        "level": 22,
+        "point": 43,
+        "lucTay": 38,
+        "thanPhap": 14,
+        "noiTuc": 39,
+        "canhKhi": 37,
+        "thePhach": 53,
+        "maxParry": 1520,
+        "maxHp": 2180,
+        "maxMp": 585,
+        "innerDef": 50,
+        "effectLevel": 2,
+        "tuViTienCap": 325250,
+        "tuViTong": 3186700,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4686,
+        "innerId": 102,
+        "level": 23,
+        "point": 44,
+        "lucTay": 39,
+        "thanPhap": 14,
+        "noiTuc": 40,
+        "canhKhi": 38,
+        "thePhach": 55,
+        "maxParry": 1560,
+        "maxHp": 2240,
+        "maxMp": 600,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 345900,
+        "tuViTong": 3511950,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4687,
+        "innerId": 102,
+        "level": 24,
+        "point": 45,
+        "lucTay": 40,
+        "thanPhap": 15,
+        "noiTuc": 42,
+        "canhKhi": 39,
+        "thePhach": 57,
+        "maxParry": 1590,
+        "maxHp": 2310,
+        "maxMp": 620,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 367200,
+        "tuViTong": 3857850,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4688,
+        "innerId": 102,
+        "level": 25,
+        "point": 46,
+        "lucTay": 41,
+        "thanPhap": 15,
+        "noiTuc": 43,
+        "canhKhi": 40,
+        "thePhach": 58,
+        "maxParry": 1640,
+        "maxHp": 2370,
+        "maxMp": 635,
+        "innerDef": 55,
+        "effectLevel": 2,
+        "tuViTienCap": 389100,
+        "tuViTong": 4225050,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4689,
+        "innerId": 102,
+        "level": 26,
+        "point": 47,
+        "lucTay": 42,
+        "thanPhap": 15,
+        "noiTuc": 44,
+        "canhKhi": 42,
+        "thePhach": 60,
+        "maxParry": 1710,
+        "maxHp": 2440,
+        "maxMp": 655,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 411650,
+        "tuViTong": 4614150,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4690,
+        "innerId": 102,
+        "level": 27,
+        "point": 48,
+        "lucTay": 43,
+        "thanPhap": 16,
+        "noiTuc": 45,
+        "canhKhi": 43,
+        "thePhach": 61,
+        "maxParry": 1760,
+        "maxHp": 2500,
+        "maxMp": 670,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 434850,
+        "tuViTong": 5025800,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4691,
+        "innerId": 102,
+        "level": 28,
+        "point": 49,
+        "lucTay": 45,
+        "thanPhap": 16,
+        "noiTuc": 46,
+        "canhKhi": 44,
+        "thePhach": 63,
+        "maxParry": 1800,
+        "maxHp": 2570,
+        "maxMp": 690,
+        "innerDef": 60,
+        "effectLevel": 3,
+        "tuViTienCap": 458700,
+        "tuViTong": 5460650,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4692,
+        "innerId": 102,
+        "level": 29,
+        "point": 50,
+        "lucTay": 46,
+        "thanPhap": 17,
+        "noiTuc": 47,
+        "canhKhi": 45,
+        "thePhach": 65,
+        "maxParry": 1830,
+        "maxHp": 2630,
+        "maxMp": 705,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 483150,
+        "tuViTong": 5919350,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4693,
+        "innerId": 102,
+        "level": 30,
+        "point": 51,
+        "lucTay": 47,
+        "thanPhap": 17,
+        "noiTuc": 49,
+        "canhKhi": 46,
+        "thePhach": 66,
+        "maxParry": 1880,
+        "maxHp": 2700,
+        "maxMp": 720,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 508250,
+        "tuViTong": 6402500,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4694,
+        "innerId": 102,
+        "level": 31,
+        "point": 52,
+        "lucTay": 48,
+        "thanPhap": 17,
+        "noiTuc": 50,
+        "canhKhi": 47,
+        "thePhach": 68,
+        "maxParry": 1920,
+        "maxHp": 2760,
+        "maxMp": 740,
+        "innerDef": 65,
+        "effectLevel": 3,
+        "tuViTienCap": 533950,
+        "tuViTong": 6910750,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4695,
+        "innerId": 102,
+        "level": 32,
+        "point": 53,
+        "lucTay": 49,
+        "thanPhap": 18,
+        "noiTuc": 51,
+        "canhKhi": 48,
+        "thePhach": 70,
+        "maxParry": 1980,
+        "maxHp": 2840,
+        "maxMp": 760,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 560300,
+        "tuViTong": 7444700,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4696,
+        "innerId": 102,
+        "level": 33,
+        "point": 54,
+        "lucTay": 50,
+        "thanPhap": 18,
+        "noiTuc": 52,
+        "canhKhi": 49,
+        "thePhach": 71,
+        "maxParry": 2040,
+        "maxHp": 2900,
+        "maxMp": 775,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 587300,
+        "tuViTong": 8005000,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4697,
+        "innerId": 102,
+        "level": 34,
+        "point": 55,
+        "lucTay": 52,
+        "thanPhap": 19,
+        "noiTuc": 54,
+        "canhKhi": 51,
+        "thePhach": 73,
+        "maxParry": 2040,
+        "maxHp": 2970,
+        "maxMp": 795,
+        "innerDef": 70,
+        "effectLevel": 3,
+        "tuViTienCap": 614950,
+        "tuViTong": 8592300,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4698,
+        "innerId": 102,
+        "level": 35,
+        "point": 56,
+        "lucTay": 53,
+        "thanPhap": 19,
+        "noiTuc": 55,
+        "canhKhi": 52,
+        "thePhach": 74,
+        "maxParry": 2090,
+        "maxHp": 3030,
+        "maxMp": 810,
+        "innerDef": 75,
+        "effectLevel": 3,
+        "tuViTienCap": 643200,
+        "tuViTong": 9207250,
+        "effectInfo": "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 102,
+      "name": "Nhị Chỉ Thiền",
+      "slug": "nhi-chi-thien",
+      "maxLevel": 36,
+      "schoolId": 1,
+      "type": "0",
+      "desc": "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
+      "photo": "neigong/ng_sl_002.png",
+      "school": {
+        "id": 1,
+        "name": "Thiếu Lâm",
+        "type": "0",
+        "slug": "thieu-lam"
+      },
+      "detail": {
+        "id": 4699,
+        "innerId": 102,
+        "level": 36,
+        "point": 57,
+        "lucTay": 54,
+        "thanPhap": 20,
+        "noiTuc": 56,
+        "canhKhi": 53,
+        "thePhach": 76,
+        "maxParry": 2160,
+        "maxHp": 3120,
+        "maxMp": 835,
+        "innerDef": 75,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 9850450,
+        "effectInfo": "Mỗi lần xuất chiêu, kình khí sẽ làm chấn thương mục tiêu xung quanh, lực tay càng cao, sát thương càng lớn"
+      }
+    }
+  }
+]
