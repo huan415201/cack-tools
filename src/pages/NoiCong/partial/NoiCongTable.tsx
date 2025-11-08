@@ -2,12 +2,13 @@ import Text from "@components/Text";
 import { CENTER_ALL_CELLS } from "@constants/table";
 import { NOI_1, NOI_2, NOI_3, NOI_CONG_ALL } from "@data/noiCong";
 import type { TNoiCong } from "@models/noiCong";
+import { dynamicColor } from "@utils/dynamicColor";
 import {
   MantineReactTable,
   type MRT_ColumnDef,
   useMantineReactTable,
 } from "mantine-react-table";
-import { type FC,useMemo } from "react";
+import { type FC, useMemo } from "react";
 
 import { FILTER_VALUES } from "../constants";
 
@@ -39,7 +40,9 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter }) => {
         Cell: ({ row }) => (
           <div className="flex items-center gap-2">
             <img src={row.original.icon} className="rounded-md w-12 h-12" />
-            <Text className={`font-medium text-${row.original.colorKey}`}>
+            <Text
+              className={`font-medium ${dynamicColor(row.original.colorKey, "text")}`}
+            >
               {row.original.ten}
             </Text>
           </div>
