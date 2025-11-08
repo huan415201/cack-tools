@@ -27,7 +27,8 @@
       "@data/*": ["src/data/*"],
       "@assets/*": ["src/assets/*"],
       "@constants/*": ["src/constants/*"],
-      "@utils/*": ["src/utils/*"]
+      "@utils/*": ["src/utils/*"],
+      "@reduck/*": ["src/reduck/*"]
     },
 
     /* Linting */

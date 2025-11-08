@@ -1,7 +1,7 @@
 import LA_HAN_PHUC_MA_CONG from "../refinedData/thieuLam/3_laHanPhucMaCong";
 
 export const fixing = () => {
-  let data = { ...LA_HAN_PHUC_MA_CONG };
+  const data = { ...LA_HAN_PHUC_MA_CONG };
   data.detail = data.detail.map((level) => {
     return {
       lucTay: level.lucTay,

@@ -1,7 +1,9 @@
 import Text from "@components/Text";
-import { useState } from "react";
-import { Link } from "react-router";
+import { useAppDispatch, useAppSelector } from "@reduck/hooks";
+import { setActiveSidebarItem } from "@reduck/slices/appSlice";
+import { Link, useLocation } from "react-router";
 
+import { useEffect } from "react";
 import {
   SIDEBAR_ITEMS,
   type TSidebarItem,
@@ -9,9 +11,27 @@ import {
 } from "./constants";
 
 const Sidebar = () => {
-  const [activeItem, setActiveItem] = useState<string>(
-    SIDEBAR_ITEMS.Home.value,
-  );
+  const dispatch = useAppDispatch();
+  const location = useLocation();
+  const activeItem = useAppSelector((state) => state.app.activeSidebarItem);
+
+  useEffect(() => {
+    setActiveItem(findItemByPath(location.pathname).value);
+  }, [location.pathname]);
+
+  const setActiveItem = (value: string) => {
+    dispatch(setActiveSidebarItem(value));
+  };
+
+  const findItemByPath = (path: string): TSidebarItem => {
+    for (const key of Object.keys(SIDEBAR_ITEMS)) {
+      const item = SIDEBAR_ITEMS[key as TSidebarKey];
+      if (item.path === path) {
+        return item;
+      }
+    }
+    return SIDEBAR_ITEMS.Home;
+  };
 
   const renderItem = (item: TSidebarItem) => {
     const isActive = item.value === activeItem;
@@ -35,7 +55,7 @@ const Sidebar = () => {
         </div>
       </div>
       {Object.keys(SIDEBAR_ITEMS).map((key) =>
-        renderItem(SIDEBAR_ITEMS[key as TSidebarKey]),
+        renderItem(SIDEBAR_ITEMS[key as TSidebarKey])
       )}
     </div>
   );

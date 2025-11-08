@@ -7,7 +7,7 @@ const MainLayout = () => {
       <div className="w-[300px]">
         <Sidebar />
       </div>
-      <div className="flex-1 py-2 px-3">
+      <div className="flex-1 p-4">
         <Outlet />
       </div>
     </div>

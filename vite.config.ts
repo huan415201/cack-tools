@@ -16,6 +16,7 @@ export default defineConfig({
       "@assets": "/src/assets",
       "@constants": "/src/constants",
       "@utils": "/src/utils",
+      "@reduck": "/src/reduck",
     },
   },
 });
