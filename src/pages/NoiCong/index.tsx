@@ -115,6 +115,7 @@ const NoiCong = () => {
 
   return (
     <div className="flex flex-col">
+      <div className="flex items-center"></div>
       <MantineReactTable table={table} />
     </div>
   );
