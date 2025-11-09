@@ -1,8 +1,9 @@
 import Text from "@components/Text";
 import { mining } from "@data/noiCong/testTools/mining";
-import { Button, Input } from "@headlessui/react";
 import { useEffect, useRef, useState } from "react";
 
+import Button from "@components/Button";
+import Input from "@components/Input";
 import { FILTER_VALUES } from "./constants";
 import { FilterChips, NoiCongTable } from "./partial";
 
@@ -26,12 +27,8 @@ const NoiCong = () => {
       <FilterChips filter={filter} setFilter={setFilter} />
       <div className="flex items-center gap-4">
         <Text>Chọn tầng</Text>
-        <Input
-          defaultValue={36}
-          ref={inputRef}
-          className="py-2 px-3 border border-border rounded-md w-[100px]"
-        />
-        <Button onClick={onClickOk}>OK</Button>
+        <Input defaultValue={36} inputRef={inputRef} className="w-[100px]" />
+        <Button onClick={onClickOk}>Xem</Button>
       </div>
       <NoiCongTable filter={filter} selectedLevel={selectedLevel} />
     </div>

@@ -1,7 +1,6 @@
 @import "tailwindcss";
 
 @theme {
-  --color-border: theme(colors.gray.300);
   --color-caibang: #6d5241;
   --color-camyve: #ffffff;
   --color-conluan: #ffffff;
@@ -13,6 +12,9 @@
   --color-thienson: #ffffff;
   --color-thieulam: #fac74a;
   --color-vodang: #515aa1;
+  --color-border: theme(colors.gray.300);
+  --color-attention: #ff5252;
+  --color-attention2: #ffb300;
 }
 
 body {

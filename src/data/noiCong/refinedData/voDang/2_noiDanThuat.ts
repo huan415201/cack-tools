@@ -10,13 +10,13 @@ const NOI_DAN_THUAT: TNoiCong = {
   moTa: 'Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện "Tinh, Khí, Thần" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.',
   tangToiDa: 36,
   hieuUngTang6:
-    "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại  2% Nội Lực\nkhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực",
+    "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại 2% Nội Lực\nKhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực",
   hieuUngTang16:
-    "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực\nkhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực",
+    "Khi Nội Lực không đủ 40%, công kích có xác suất 16% phục hồi lại 2% Nội Lực\nKhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 3% điểm Nội Lực",
   hieuUngTang26:
-    "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2%Nội Lực\nkhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực",
+    "Khi Nội Lực không đủ 40%, công kích có xác suất 20% phục hồi lại 2% Nội Lực\nKhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 4% điểm Nội Lực",
   hieuUngTang36:
-    "Công kích có xác suất 20% phục hồi 2%Nội Lực và mỗi lần công kích kèm thêm sát thương 4% điểm Nội Lực",
+    "Công kích có xác suất 20% phục hồi 2% Nội Lực và mỗi lần công kích kèm thêm sát thương 4% điểm Nội Lực",
   detail: [
     {
       lucTay: 8,
