@@ -1,5 +1,6 @@
 import { iconNoiDanThuat } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const NOI_DAN_THUAT: TNoiCong = {
@@ -9,6 +10,7 @@ const NOI_DAN_THUAT: TNoiCong = {
   ten: "Nội Đan Thuật",
   moTa: 'Võ Đang quan trọng Nội Công Tâm Pháp, tu luyện "Tinh, Khí, Thần" kết đan trong thân thể, nghiên cứu Luyện Tinh Hóa Khí, Luyện Khí Hóa Thần, lúc thành công Năng Chí, cảnh giới Thiên Nhân hợp nhất, Thiên Nhân tương ứng.',
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.amNhu,
   hieuUngTang6:
     "Khi Nội Lực không đủ 40%, công kích có xác suất 12% phục hồi lại 2% Nội Lực\nKhi Nội Lực cao hơn 40%, công kích kèm thêm sát thương 2% điểm Nội Lực",
   hieuUngTang16:

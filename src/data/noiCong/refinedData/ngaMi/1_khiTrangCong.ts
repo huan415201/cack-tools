@@ -1,5 +1,6 @@
 import { iconKhiTrangCong } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const KHI_TRANG_CONG: TNoiCong = {
@@ -9,6 +10,7 @@ const KHI_TRANG_CONG: TNoiCong = {
   ten: "Khí Trang Công",
   moTa: "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.amNhu,
   hieuUngTang6:
     "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công",
   hieuUngTang16:

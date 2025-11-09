@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3637,
+        "innerId": 75,
+        "level": 1,
+        "point": 7,
+        "lucTay": 13,
+        "thanPhap": 3,
+        "noiTuc": 2,
+        "canhKhi": 2,
+        "thePhach": 11,
+        "maxParry": 140,
+        "maxHp": 380,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3638,
+        "innerId": 75,
+        "level": 2,
+        "point": 8,
+        "lucTay": 14,
+        "thanPhap": 3,
+        "noiTuc": 3,
+        "canhKhi": 2,
+        "thePhach": 12,
+        "maxParry": 150,
+        "maxHp": 410,
+        "maxMp": 110,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3639,
+        "innerId": 75,
+        "level": 3,
+        "point": 9,
+        "lucTay": 16,
+        "thanPhap": 4,
+        "noiTuc": 3,
+        "canhKhi": 2,
+        "thePhach": 14,
+        "maxParry": 170,
+        "maxHp": 460,
+        "maxMp": 125,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3640,
+        "innerId": 75,
+        "level": 4,
+        "point": 10,
+        "lucTay": 17,
+        "thanPhap": 4,
+        "noiTuc": 3,
+        "canhKhi": 2,
+        "thePhach": 15,
+        "maxParry": 180,
+        "maxHp": 500,
+        "maxMp": 135,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3641,
+        "innerId": 75,
+        "level": 5,
+        "point": 11,
+        "lucTay": 19,
+        "thanPhap": 4,
+        "noiTuc": 3,
+        "canhKhi": 3,
+        "thePhach": 16,
+        "maxParry": 210,
+        "maxHp": 540,
+        "maxMp": 145,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3642,
+        "innerId": 75,
+        "level": 6,
+        "point": 12,
+        "lucTay": 20,
+        "thanPhap": 5,
+        "noiTuc": 4,
+        "canhKhi": 3,
+        "thePhach": 17,
+        "maxParry": 210,
+        "maxHp": 580,
+        "maxMp": 155,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3643,
+        "innerId": 75,
+        "level": 7,
+        "point": 13,
+        "lucTay": 21,
+        "thanPhap": 5,
+        "noiTuc": 4,
+        "canhKhi": 3,
+        "thePhach": 19,
+        "maxParry": 250,
+        "maxHp": 630,
+        "maxMp": 170,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3644,
+        "innerId": 75,
+        "level": 8,
+        "point": 14,
+        "lucTay": 23,
+        "thanPhap": 5,
+        "noiTuc": 4,
+        "canhKhi": 3,
+        "thePhach": 20,
+        "maxParry": 250,
+        "maxHp": 660,
+        "maxMp": 180,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3645,
+        "innerId": 75,
+        "level": 9,
+        "point": 15,
+        "lucTay": 24,
+        "thanPhap": 6,
+        "noiTuc": 4,
+        "canhKhi": 3,
+        "thePhach": 21,
+        "maxParry": 280,
+        "maxHp": 710,
+        "maxMp": 190,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3646,
+        "innerId": 75,
+        "level": 10,
+        "point": 16,
+        "lucTay": 26,
+        "thanPhap": 6,
+        "noiTuc": 5,
+        "canhKhi": 4,
+        "thePhach": 22,
+        "maxParry": 280,
+        "maxHp": 750,
+        "maxMp": 200,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3647,
+        "innerId": 75,
+        "level": 11,
+        "point": 17,
+        "lucTay": 27,
+        "thanPhap": 6,
+        "noiTuc": 5,
+        "canhKhi": 4,
+        "thePhach": 24,
+        "maxParry": 320,
+        "maxHp": 800,
+        "maxMp": 215,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3648,
+        "innerId": 75,
+        "level": 12,
+        "point": 18,
+        "lucTay": 28,
+        "thanPhap": 7,
+        "noiTuc": 5,
+        "canhKhi": 4,
+        "thePhach": 25,
+        "maxParry": 320,
+        "maxHp": 830,
+        "maxMp": 225,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3649,
+        "innerId": 75,
+        "level": 13,
+        "point": 19,
+        "lucTay": 30,
+        "thanPhap": 7,
+        "noiTuc": 6,
+        "canhKhi": 4,
+        "thePhach": 26,
+        "maxParry": 350,
+        "maxHp": 880,
+        "maxMp": 235,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3650,
+        "innerId": 75,
+        "level": 14,
+        "point": 20,
+        "lucTay": 31,
+        "thanPhap": 7,
+        "noiTuc": 6,
+        "canhKhi": 4,
+        "thePhach": 27,
+        "maxParry": 360,
+        "maxHp": 920,
+        "maxMp": 250,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3651,
+        "innerId": 75,
+        "level": 15,
+        "point": 21,
+        "lucTay": 33,
+        "thanPhap": 8,
+        "noiTuc": 6,
+        "canhKhi": 5,
+        "thePhach": 29,
+        "maxParry": 380,
+        "maxHp": 960,
+        "maxMp": 260,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3652,
+        "innerId": 75,
+        "level": 16,
+        "point": 22,
+        "lucTay": 35,
+        "thanPhap": 8,
+        "noiTuc": 6,
+        "canhKhi": 5,
+        "thePhach": 30,
+        "maxParry": 410,
+        "maxHp": 1020,
+        "maxMp": 275,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3653,
+        "innerId": 75,
+        "level": 17,
+        "point": 23,
+        "lucTay": 37,
+        "thanPhap": 8,
+        "noiTuc": 7,
+        "canhKhi": 5,
+        "thePhach": 32,
+        "maxParry": 420,
+        "maxHp": 1070,
+        "maxMp": 290,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3654,
+        "innerId": 75,
+        "level": 18,
+        "point": 24,
+        "lucTay": 39,
+        "thanPhap": 9,
+        "noiTuc": 7,
+        "canhKhi": 6,
+        "thePhach": 34,
+        "maxParry": 430,
+        "maxHp": 1130,
+        "maxMp": 305,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3655,
+        "innerId": 75,
+        "level": 19,
+        "point": 25,
+        "lucTay": 40,
+        "thanPhap": 9,
+        "noiTuc": 7,
+        "canhKhi": 6,
+        "thePhach": 35,
+        "maxParry": 480,
+        "maxHp": 1180,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3656,
+        "innerId": 75,
+        "level": 20,
+        "point": 26,
+        "lucTay": 42,
+        "thanPhap": 10,
+        "noiTuc": 8,
+        "canhKhi": 6,
+        "thePhach": 37,
+        "maxParry": 490,
+        "maxHp": 1240,
+        "maxMp": 335,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3657,
+        "innerId": 75,
+        "level": 21,
+        "point": 27,
+        "lucTay": 44,
+        "thanPhap": 10,
+        "noiTuc": 8,
+        "canhKhi": 6,
+        "thePhach": 38,
+        "maxParry": 520,
+        "maxHp": 1290,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3658,
+        "innerId": 75,
+        "level": 22,
+        "point": 28,
+        "lucTay": 46,
+        "thanPhap": 11,
+        "noiTuc": 8,
+        "canhKhi": 7,
+        "thePhach": 40,
+        "maxParry": 530,
+        "maxHp": 1350,
+        "maxMp": 360,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3659,
+        "innerId": 75,
+        "level": 23,
+        "point": 29,
+        "lucTay": 48,
+        "thanPhap": 11,
+        "noiTuc": 9,
+        "canhKhi": 7,
+        "thePhach": 42,
+        "maxParry": 540,
+        "maxHp": 1400,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3660,
+        "innerId": 75,
+        "level": 24,
+        "point": 30,
+        "lucTay": 50,
+        "thanPhap": 12,
+        "noiTuc": 9,
+        "canhKhi": 7,
+        "thePhach": 43,
+        "maxParry": 560,
+        "maxHp": 1460,
+        "maxMp": 390,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3661,
+        "innerId": 75,
+        "level": 25,
+        "point": 31,
+        "lucTay": 51,
+        "thanPhap": 12,
+        "noiTuc": 9,
+        "canhKhi": 7,
+        "thePhach": 45,
+        "maxParry": 600,
+        "maxHp": 1500,
+        "maxMp": 400,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3662,
+        "innerId": 75,
+        "level": 26,
+        "point": 32,
+        "lucTay": 54,
+        "thanPhap": 12,
+        "noiTuc": 10,
+        "canhKhi": 8,
+        "thePhach": 47,
+        "maxParry": 610,
+        "maxHp": 1560,
+        "maxMp": 420,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3663,
+        "innerId": 75,
+        "level": 27,
+        "point": 33,
+        "lucTay": 55,
+        "thanPhap": 13,
+        "noiTuc": 10,
+        "canhKhi": 8,
+        "thePhach": 48,
+        "maxParry": 630,
+        "maxHp": 1610,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3664,
+        "innerId": 75,
+        "level": 28,
+        "point": 34,
+        "lucTay": 57,
+        "thanPhap": 13,
+        "noiTuc": 11,
+        "canhKhi": 8,
+        "thePhach": 50,
+        "maxParry": 670,
+        "maxHp": 1670,
+        "maxMp": 450,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3665,
+        "innerId": 75,
+        "level": 29,
+        "point": 35,
+        "lucTay": 59,
+        "thanPhap": 14,
+        "noiTuc": 11,
+        "canhKhi": 8,
+        "thePhach": 51,
+        "maxParry": 670,
+        "maxHp": 1720,
+        "maxMp": 460,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3666,
+        "innerId": 75,
+        "level": 30,
+        "point": 36,
+        "lucTay": 61,
+        "thanPhap": 14,
+        "noiTuc": 11,
+        "canhKhi": 9,
+        "thePhach": 53,
+        "maxParry": 700,
+        "maxHp": 1780,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3667,
+        "innerId": 75,
+        "level": 31,
+        "point": 37,
+        "lucTay": 63,
+        "thanPhap": 14,
+        "noiTuc": 11,
+        "canhKhi": 9,
+        "thePhach": 54,
+        "maxParry": 730,
+        "maxHp": 1830,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3668,
+        "innerId": 75,
+        "level": 32,
+        "point": 38,
+        "lucTay": 65,
+        "thanPhap": 15,
+        "noiTuc": 12,
+        "canhKhi": 9,
+        "thePhach": 56,
+        "maxParry": 740,
+        "maxHp": 1890,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3669,
+        "innerId": 75,
+        "level": 33,
+        "point": 39,
+        "lucTay": 66,
+        "thanPhap": 15,
+        "noiTuc": 12,
+        "canhKhi": 10,
+        "thePhach": 58,
+        "maxParry": 770,
+        "maxHp": 1940,
+        "maxMp": 520,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3670,
+        "innerId": 75,
+        "level": 34,
+        "point": 40,
+        "lucTay": 68,
+        "thanPhap": 16,
+        "noiTuc": 13,
+        "canhKhi": 10,
+        "thePhach": 59,
+        "maxParry": 800,
+        "maxHp": 2000,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3671,
+        "innerId": 75,
+        "level": 35,
+        "point": 41,
+        "lucTay": 70,
+        "thanPhap": 16,
+        "noiTuc": 13,
+        "canhKhi": 10,
+        "thePhach": 61,
+        "maxParry": 810,
+        "maxHp": 2040,
+        "maxMp": 545,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 50% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 75,
+      "name": "Huyền Nguyên Kinh",
+      "slug": "huyen-nguyen-kinh",
+      "maxLevel": 36,
+      "schoolId": 7,
+      "type": "0",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cẩm Y Vệ. Trời đất chưa chia, hỗn độn nhất thể, Huyền là Thiên Dã, Nguyên là Khí Dã, lấy Lực của Huyền Nguyên, nạp vào trong Đan Điền, lấy giá trị năng lượng mạnh.",
+      "photo": "neigong/ng_jy_001.png",
+      "school": {
+        "id": 7,
+        "name": "Cẩm Y Vệ",
+        "type": "0",
+        "slug": "cam-y-ve"
+      },
+      "detail": {
+        "id": 3672,
+        "innerId": 75,
+        "level": 36,
+        "point": 42,
+        "lucTay": 72,
+        "thanPhap": 17,
+        "noiTuc": 13,
+        "canhKhi": 10,
+        "thePhach": 63,
+        "maxParry": 820,
+        "maxHp": 2100,
+        "maxMp": 560,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "Làm cho mục tiêu nhận sát thương liên tục và làm giảm 100% tốc độ hồi Khí huyết của mục tiêu, liên tục trong 20 giây"
+      }
+    }
+  }
+]

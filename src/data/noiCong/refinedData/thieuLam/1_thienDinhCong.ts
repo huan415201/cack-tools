@@ -1,5 +1,6 @@
 import { iconThienDinhCong } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const THIEN_DINH_CONG: TNoiCong = {
@@ -9,6 +10,7 @@ const THIEN_DINH_CONG: TNoiCong = {
   ten: "Thiền Định Công",
   moTa: `Tâm Pháp, Thiền Định Diệc Chỉ Quan, Lục Tổ Tọa Thiền Nhi Ngộ là Nội Công cơ bản của Thiếu Lâm, "Thiền Định Giả, cuộc sống bên ngoài không nơi ở không ô nhiễm là Thiền, trong lòng rõ ràng hiểu an cư là Định, cài gọi là Ngoại Thiền Nội Định, là Thiền Định giống như là Dã", Tu tập Giả siêu nhiên nhập cảnh, lưu thông huyết mạch, di dưỡng tâm thần, lấy đây làm cơ sở xây dựng.`,
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.duongCuong,
   hieuUngTang6: "Công kích có xác suất 15% hóa giải phần huyết ứ",
   hieuUngTang16: "Công kích có xác suất 15% hóa giải phần huyết ứ",
   hieuUngTang26: "Công kích có xác suất 15% hóa giải phần huyết ứ",

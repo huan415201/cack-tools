@@ -1,5 +1,6 @@
 import { iconTieuDaoTamPhap } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const TIEU_DAO_TAM_PHAP: TNoiCong = {
@@ -9,6 +10,7 @@ const TIEU_DAO_TAM_PHAP: TNoiCong = {
   ten: "Tiêu Dao Tâm Pháp",
   moTa: 'Nội Công Tâm Pháp cơ bản của Cái Bang, "Không gì ngoài Ngũ Dục, chữa lành vết thương, ung dung tự tại". Cái Bang Đệ Tử xưa nay thoải mái, tự do tự tại, ung dung đi hết Thế Gian.',
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.duongCuong,
   hieuUngTang6:
     "Sau 16s, công kích lần sau gấp 1.5 lần sát thương và kèm theo sát thương dương, làm cho mục tiêu giảm tốc liên tục 3 giây",
   hieuUngTang16:

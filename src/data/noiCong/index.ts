@@ -28,6 +28,11 @@ export const NOI_CONG_ALL: TNoiCong[] = [
 
 export const NOI_1: TNoiCong[] = [
   NOI_CONG_CAI_BANG[0],
+  NOI_CONG_CAM_Y_VE[0],
+  NOI_CONG_CON_LUAN[0],
+  NOI_CONG_CUC_LAC_COC[0],
+  NOI_CONG_DUONG_MON[0],
+  NOI_CONG_MINH_GIAO[0],
   NOI_CONG_NGA_MI[0],
   NOI_CONG_THIEU_LAM[0],
   NOI_CONG_VO_DANG[0],

@@ -5,6 +5,7 @@ export type TNoiCong = {
   ten: string;
   moTa: string;
   tangToiDa: number;
+  type: string;
   hieuUngTang6?: string;
   hieuUngTang16?: string;
   hieuUngTang26?: string;

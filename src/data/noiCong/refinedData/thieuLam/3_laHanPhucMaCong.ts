@@ -1,5 +1,6 @@
 import { iconLaHanPhucMaCong } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const LA_HAN_PHUC_MA_CONG: TNoiCong = {
@@ -9,6 +10,7 @@ const LA_HAN_PHUC_MA_CONG: TNoiCong = {
   ten: "La Hán Phục Ma Công",
   moTa: "Tập Đại Thành của Thiếu Lâm Nội Công Tâm Pháp, là một trong những bảy mươi hai tuyệt kỹ Thiếu Lâm, chí cương chí mãnh. Trí tuệ bí mật của Kim Cương Dụ Như Lai, thân thể của Ban Nhã, đều kiên cố như Kim Cương, không Vạn Vật nào có thể phá hoại, trí tuệ này.",
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.duongCuong,
   hieuUngTang6:
     'Công hàm phật pháp, cảnh thị chúng sinh. Mỗi lần công kích có xác suất vào cảnh giới "Chư tương phi tương", lĩnh ngộ 1 trong tứ tướng\n(chỉ có người hiệp nghĩa mới có thể lĩnh ngộ được cảnh giới tầng này)',
   hieuUngTang16:

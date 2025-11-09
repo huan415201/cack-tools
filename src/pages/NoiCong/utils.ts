@@ -50,11 +50,6 @@ export const getStatClassName = (
   field: keyof TNoiCongTableData["detail"]
 ) => {
   const isHighest = row.highestStat === row.detail[field];
-  const isSecondHighest = row.secondHighestStat === row.detail[field];
-  const color = isHighest
-    ? "font-bold text-attention"
-    : isSecondHighest
-      ? "font-bold text-attention2"
-      : "";
+  const color = isHighest ? "font-bold text-attention" : "";
   return color;
 };

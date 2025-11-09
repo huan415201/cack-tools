@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3372,
+        "innerId": 63,
+        "level": 1,
+        "point": 7,
+        "lucTay": 12,
+        "thanPhap": 3,
+        "noiTuc": 10,
+        "canhKhi": 3,
+        "thePhach": 3,
+        "maxParry": 210,
+        "maxHp": 350,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3373,
+        "innerId": 63,
+        "level": 2,
+        "point": 8,
+        "lucTay": 14,
+        "thanPhap": 3,
+        "noiTuc": 11,
+        "canhKhi": 3,
+        "thePhach": 3,
+        "maxParry": 220,
+        "maxHp": 380,
+        "maxMp": 115,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3374,
+        "innerId": 63,
+        "level": 3,
+        "point": 9,
+        "lucTay": 15,
+        "thanPhap": 3,
+        "noiTuc": 12,
+        "canhKhi": 4,
+        "thePhach": 4,
+        "maxParry": 250,
+        "maxHp": 420,
+        "maxMp": 130,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3375,
+        "innerId": 63,
+        "level": 4,
+        "point": 10,
+        "lucTay": 16,
+        "thanPhap": 4,
+        "noiTuc": 13,
+        "canhKhi": 4,
+        "thePhach": 4,
+        "maxParry": 270,
+        "maxHp": 460,
+        "maxMp": 140,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3376,
+        "innerId": 63,
+        "level": 5,
+        "point": 11,
+        "lucTay": 18,
+        "thanPhap": 4,
+        "noiTuc": 14,
+        "canhKhi": 5,
+        "thePhach": 4,
+        "maxParry": 310,
+        "maxHp": 500,
+        "maxMp": 150,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3377,
+        "innerId": 63,
+        "level": 6,
+        "point": 12,
+        "lucTay": 19,
+        "thanPhap": 4,
+        "noiTuc": 15,
+        "canhKhi": 5,
+        "thePhach": 4,
+        "maxParry": 330,
+        "maxHp": 530,
+        "maxMp": 160,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3378,
+        "innerId": 63,
+        "level": 7,
+        "point": 13,
+        "lucTay": 21,
+        "thanPhap": 5,
+        "noiTuc": 17,
+        "canhKhi": 5,
+        "thePhach": 5,
+        "maxParry": 330,
+        "maxHp": 580,
+        "maxMp": 175,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3379,
+        "innerId": 63,
+        "level": 8,
+        "point": 14,
+        "lucTay": 22,
+        "thanPhap": 5,
+        "noiTuc": 18,
+        "canhKhi": 6,
+        "thePhach": 5,
+        "maxParry": 360,
+        "maxHp": 610,
+        "maxMp": 185,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3380,
+        "innerId": 63,
+        "level": 9,
+        "point": 15,
+        "lucTay": 23,
+        "thanPhap": 5,
+        "noiTuc": 19,
+        "canhKhi": 6,
+        "thePhach": 5,
+        "maxParry": 400,
+        "maxHp": 650,
+        "maxMp": 195,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3381,
+        "innerId": 63,
+        "level": 10,
+        "point": 16,
+        "lucTay": 25,
+        "thanPhap": 6,
+        "noiTuc": 20,
+        "canhKhi": 6,
+        "thePhach": 6,
+        "maxParry": 400,
+        "maxHp": 690,
+        "maxMp": 210,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3382,
+        "innerId": 63,
+        "level": 11,
+        "point": 17,
+        "lucTay": 26,
+        "thanPhap": 6,
+        "noiTuc": 21,
+        "canhKhi": 7,
+        "thePhach": 6,
+        "maxParry": 440,
+        "maxHp": 730,
+        "maxMp": 220,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3383,
+        "innerId": 63,
+        "level": 12,
+        "point": 18,
+        "lucTay": 27,
+        "thanPhap": 6,
+        "noiTuc": 22,
+        "canhKhi": 7,
+        "thePhach": 6,
+        "maxParry": 470,
+        "maxHp": 760,
+        "maxMp": 230,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3384,
+        "innerId": 63,
+        "level": 13,
+        "point": 19,
+        "lucTay": 29,
+        "thanPhap": 7,
+        "noiTuc": 23,
+        "canhKhi": 7,
+        "thePhach": 7,
+        "maxParry": 480,
+        "maxHp": 810,
+        "maxMp": 245,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3385,
+        "innerId": 63,
+        "level": 14,
+        "point": 20,
+        "lucTay": 30,
+        "thanPhap": 7,
+        "noiTuc": 24,
+        "canhKhi": 8,
+        "thePhach": 7,
+        "maxParry": 510,
+        "maxHp": 840,
+        "maxMp": 255,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3386,
+        "innerId": 63,
+        "level": 15,
+        "point": 21,
+        "lucTay": 32,
+        "thanPhap": 7,
+        "noiTuc": 26,
+        "canhKhi": 8,
+        "thePhach": 7,
+        "maxParry": 530,
+        "maxHp": 880,
+        "maxMp": 265,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "Công kích 6 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3387,
+        "innerId": 63,
+        "level": 16,
+        "point": 22,
+        "lucTay": 34,
+        "thanPhap": 8,
+        "noiTuc": 27,
+        "canhKhi": 9,
+        "thePhach": 8,
+        "maxParry": 550,
+        "maxHp": 940,
+        "maxMp": 285,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3388,
+        "innerId": 63,
+        "level": 17,
+        "point": 23,
+        "lucTay": 35,
+        "thanPhap": 8,
+        "noiTuc": 28,
+        "canhKhi": 9,
+        "thePhach": 8,
+        "maxParry": 600,
+        "maxHp": 980,
+        "maxMp": 295,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3389,
+        "innerId": 63,
+        "level": 18,
+        "point": 24,
+        "lucTay": 37,
+        "thanPhap": 9,
+        "noiTuc": 30,
+        "canhKhi": 9,
+        "thePhach": 9,
+        "maxParry": 610,
+        "maxHp": 1040,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3390,
+        "innerId": 63,
+        "level": 19,
+        "point": 25,
+        "lucTay": 39,
+        "thanPhap": 9,
+        "noiTuc": 31,
+        "canhKhi": 10,
+        "thePhach": 9,
+        "maxParry": 650,
+        "maxHp": 1080,
+        "maxMp": 325,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3391,
+        "innerId": 63,
+        "level": 20,
+        "point": 26,
+        "lucTay": 41,
+        "thanPhap": 9,
+        "noiTuc": 33,
+        "canhKhi": 10,
+        "thePhach": 10,
+        "maxParry": 670,
+        "maxHp": 1140,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3392,
+        "innerId": 63,
+        "level": 21,
+        "point": 27,
+        "lucTay": 42,
+        "thanPhap": 10,
+        "noiTuc": 34,
+        "canhKhi": 11,
+        "thePhach": 10,
+        "maxParry": 710,
+        "maxHp": 1180,
+        "maxMp": 355,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3393,
+        "innerId": 63,
+        "level": 22,
+        "point": 28,
+        "lucTay": 44,
+        "thanPhap": 10,
+        "noiTuc": 36,
+        "canhKhi": 11,
+        "thePhach": 10,
+        "maxParry": 750,
+        "maxHp": 1240,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3394,
+        "innerId": 63,
+        "level": 23,
+        "point": 29,
+        "lucTay": 46,
+        "thanPhap": 11,
+        "noiTuc": 37,
+        "canhKhi": 12,
+        "thePhach": 11,
+        "maxParry": 760,
+        "maxHp": 1280,
+        "maxMp": 385,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3395,
+        "innerId": 63,
+        "level": 24,
+        "point": 30,
+        "lucTay": 48,
+        "thanPhap": 11,
+        "noiTuc": 39,
+        "canhKhi": 12,
+        "thePhach": 11,
+        "maxParry": 790,
+        "maxHp": 1340,
+        "maxMp": 405,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3396,
+        "innerId": 63,
+        "level": 25,
+        "point": 31,
+        "lucTay": 50,
+        "thanPhap": 11,
+        "noiTuc": 40,
+        "canhKhi": 13,
+        "thePhach": 12,
+        "maxParry": 810,
+        "maxHp": 1380,
+        "maxMp": 415,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "Công kích 5 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3397,
+        "innerId": 63,
+        "level": 26,
+        "point": 32,
+        "lucTay": 52,
+        "thanPhap": 12,
+        "noiTuc": 41,
+        "canhKhi": 13,
+        "thePhach": 12,
+        "maxParry": 850,
+        "maxHp": 1430,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3398,
+        "innerId": 63,
+        "level": 27,
+        "point": 33,
+        "lucTay": 53,
+        "thanPhap": 12,
+        "noiTuc": 43,
+        "canhKhi": 13,
+        "thePhach": 12,
+        "maxParry": 890,
+        "maxHp": 1480,
+        "maxMp": 445,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3399,
+        "innerId": 63,
+        "level": 28,
+        "point": 34,
+        "lucTay": 55,
+        "thanPhap": 13,
+        "noiTuc": 44,
+        "canhKhi": 14,
+        "thePhach": 13,
+        "maxParry": 910,
+        "maxHp": 1530,
+        "maxMp": 460,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3400,
+        "innerId": 63,
+        "level": 29,
+        "point": 35,
+        "lucTay": 57,
+        "thanPhap": 13,
+        "noiTuc": 46,
+        "canhKhi": 14,
+        "thePhach": 13,
+        "maxParry": 940,
+        "maxHp": 1580,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3401,
+        "innerId": 63,
+        "level": 30,
+        "point": 36,
+        "lucTay": 59,
+        "thanPhap": 14,
+        "noiTuc": 47,
+        "canhKhi": 15,
+        "thePhach": 14,
+        "maxParry": 960,
+        "maxHp": 1630,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3402,
+        "innerId": 63,
+        "level": 31,
+        "point": 37,
+        "lucTay": 60,
+        "thanPhap": 14,
+        "noiTuc": 48,
+        "canhKhi": 15,
+        "thePhach": 14,
+        "maxParry": 1010,
+        "maxHp": 1680,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3403,
+        "innerId": 63,
+        "level": 32,
+        "point": 38,
+        "lucTay": 62,
+        "thanPhap": 14,
+        "noiTuc": 50,
+        "canhKhi": 16,
+        "thePhach": 14,
+        "maxParry": 1050,
+        "maxHp": 1730,
+        "maxMp": 520,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3404,
+        "innerId": 63,
+        "level": 33,
+        "point": 39,
+        "lucTay": 64,
+        "thanPhap": 15,
+        "noiTuc": 51,
+        "canhKhi": 16,
+        "thePhach": 15,
+        "maxParry": 1060,
+        "maxHp": 1780,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3405,
+        "innerId": 63,
+        "level": 34,
+        "point": 40,
+        "lucTay": 66,
+        "thanPhap": 15,
+        "noiTuc": 53,
+        "canhKhi": 17,
+        "thePhach": 15,
+        "maxParry": 1090,
+        "maxHp": 1830,
+        "maxMp": 550,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3406,
+        "innerId": 63,
+        "level": 35,
+        "point": 41,
+        "lucTay": 68,
+        "thanPhap": 16,
+        "noiTuc": 54,
+        "canhKhi": 17,
+        "thePhach": 16,
+        "maxParry": 1100,
+        "maxHp": 1870,
+        "maxMp": 565,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x2"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 63,
+      "name": "Song Tu Quyết",
+      "slug": "song-tu-quyet",
+      "maxLevel": 36,
+      "schoolId": 6,
+      "type": "2",
+      "desc": "Nội Công Tâm Pháp cơ bản của Cực Lạc Cốc, truyền thành thuật Đơn Thiên Tà điều hòa mệnh lí Âm Dương sáng tạo ra. Mềm thành Âm, cứng thành Dương, Âm Dương hòa hợp, là Vị Song Tu Dã.",
+      "photo": "neigong/ng_jl_001.png",
+      "school": {
+        "id": 6,
+        "name": "Cực Lạc Cốc",
+        "type": "0",
+        "slug": "cuc-lac-coc"
+      },
+      "detail": {
+        "id": 3407,
+        "innerId": 63,
+        "level": 36,
+        "point": 42,
+        "lucTay": 70,
+        "thanPhap": 16,
+        "noiTuc": 56,
+        "canhKhi": 18,
+        "thePhach": 16,
+        "maxParry": 1140,
+        "maxHp": 1930,
+        "maxMp": 580,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "Công kích 4 lần, công kích lần sau sát thương vũ khí x3"
+      }
+    }
+  }
+]

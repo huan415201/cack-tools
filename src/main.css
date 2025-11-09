@@ -2,14 +2,14 @@
 
 @theme {
   --color-caibang: #6d5241;
-  --color-camyve: #ffffff;
-  --color-conluan: #ffffff;
-  --color-cuclaccoc: #ffffff;
-  --color-duongmon: #ffffff;
-  --color-minhgiao: #ffffff;
+  --color-camyve: #dd4933;
+  --color-conluan: #335c95;
+  --color-cuclaccoc: #523e6b;
+  --color-duongmon: #87f754;
+  --color-minhgiao: #777c89;
   --color-ngami: #dc54ab;
-  --color-quantuduong: #ffffff;
-  --color-thienson: #ffffff;
+  --color-quantuduong: #000000;
+  --color-thienson: #000000;
   --color-thieulam: #fac74a;
   --color-vodang: #515aa1;
   --color-border: theme(colors.gray.300);

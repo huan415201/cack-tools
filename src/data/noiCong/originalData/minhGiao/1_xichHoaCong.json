@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6722,
+        "innerId": 154,
+        "level": 1,
+        "point": 7,
+        "lucTay": 9,
+        "thanPhap": 3,
+        "noiTuc": 9,
+        "canhKhi": 3,
+        "thePhach": 6,
+        "maxParry": 210,
+        "maxHp": 380,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6723,
+        "innerId": 154,
+        "level": 2,
+        "point": 8,
+        "lucTay": 10,
+        "thanPhap": 3,
+        "noiTuc": 10,
+        "canhKhi": 3,
+        "thePhach": 7,
+        "maxParry": 210,
+        "maxHp": 400,
+        "maxMp": 115,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6724,
+        "innerId": 154,
+        "level": 3,
+        "point": 9,
+        "lucTay": 11,
+        "thanPhap": 4,
+        "noiTuc": 11,
+        "canhKhi": 4,
+        "thePhach": 8,
+        "maxParry": 240,
+        "maxHp": 460,
+        "maxMp": 130,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6725,
+        "innerId": 154,
+        "level": 4,
+        "point": 10,
+        "lucTay": 12,
+        "thanPhap": 4,
+        "noiTuc": 12,
+        "canhKhi": 4,
+        "thePhach": 8,
+        "maxParry": 270,
+        "maxHp": 500,
+        "maxMp": 140,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6726,
+        "innerId": 154,
+        "level": 5,
+        "point": 11,
+        "lucTay": 14,
+        "thanPhap": 5,
+        "noiTuc": 14,
+        "canhKhi": 5,
+        "thePhach": 9,
+        "maxParry": 260,
+        "maxHp": 530,
+        "maxMp": 150,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6727,
+        "innerId": 154,
+        "level": 6,
+        "point": 12,
+        "lucTay": 14,
+        "thanPhap": 5,
+        "noiTuc": 14,
+        "canhKhi": 5,
+        "thePhach": 10,
+        "maxParry": 300,
+        "maxHp": 570,
+        "maxMp": 160,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6728,
+        "innerId": 154,
+        "level": 7,
+        "point": 13,
+        "lucTay": 16,
+        "thanPhap": 5,
+        "noiTuc": 16,
+        "canhKhi": 5,
+        "thePhach": 10,
+        "maxParry": 310,
+        "maxHp": 620,
+        "maxMp": 175,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6729,
+        "innerId": 154,
+        "level": 8,
+        "point": 14,
+        "lucTay": 17,
+        "thanPhap": 6,
+        "noiTuc": 17,
+        "canhKhi": 6,
+        "thePhach": 11,
+        "maxParry": 320,
+        "maxHp": 660,
+        "maxMp": 185,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6730,
+        "innerId": 154,
+        "level": 9,
+        "point": 15,
+        "lucTay": 18,
+        "thanPhap": 6,
+        "noiTuc": 18,
+        "canhKhi": 6,
+        "thePhach": 12,
+        "maxParry": 340,
+        "maxHp": 700,
+        "maxMp": 195,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6731,
+        "innerId": 154,
+        "level": 10,
+        "point": 16,
+        "lucTay": 19,
+        "thanPhap": 6,
+        "noiTuc": 19,
+        "canhKhi": 6,
+        "thePhach": 12,
+        "maxParry": 370,
+        "maxHp": 740,
+        "maxMp": 205,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6732,
+        "innerId": 154,
+        "level": 11,
+        "point": 17,
+        "lucTay": 20,
+        "thanPhap": 7,
+        "noiTuc": 20,
+        "canhKhi": 7,
+        "thePhach": 13,
+        "maxParry": 400,
+        "maxHp": 790,
+        "maxMp": 220,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6733,
+        "innerId": 154,
+        "level": 12,
+        "point": 18,
+        "lucTay": 21,
+        "thanPhap": 7,
+        "noiTuc": 21,
+        "canhKhi": 7,
+        "thePhach": 14,
+        "maxParry": 400,
+        "maxHp": 830,
+        "maxMp": 230,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6734,
+        "innerId": 154,
+        "level": 13,
+        "point": 19,
+        "lucTay": 22,
+        "thanPhap": 7,
+        "noiTuc": 22,
+        "canhKhi": 7,
+        "thePhach": 15,
+        "maxParry": 430,
+        "maxHp": 870,
+        "maxMp": 240,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6735,
+        "innerId": 154,
+        "level": 14,
+        "point": 20,
+        "lucTay": 23,
+        "thanPhap": 8,
+        "noiTuc": 23,
+        "canhKhi": 8,
+        "thePhach": 15,
+        "maxParry": 460,
+        "maxHp": 920,
+        "maxMp": 255,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6736,
+        "innerId": 154,
+        "level": 15,
+        "point": 21,
+        "lucTay": 24,
+        "thanPhap": 8,
+        "noiTuc": 24,
+        "canhKhi": 8,
+        "thePhach": 16,
+        "maxParry": 490,
+        "maxHp": 960,
+        "maxMp": 265,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 15% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6737,
+        "innerId": 154,
+        "level": 16,
+        "point": 22,
+        "lucTay": 26,
+        "thanPhap": 9,
+        "noiTuc": 26,
+        "canhKhi": 9,
+        "thePhach": 17,
+        "maxParry": 500,
+        "maxHp": 1010,
+        "maxMp": 280,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6738,
+        "innerId": 154,
+        "level": 17,
+        "point": 23,
+        "lucTay": 27,
+        "thanPhap": 9,
+        "noiTuc": 27,
+        "canhKhi": 9,
+        "thePhach": 18,
+        "maxParry": 530,
+        "maxHp": 1070,
+        "maxMp": 295,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6739,
+        "innerId": 154,
+        "level": 18,
+        "point": 24,
+        "lucTay": 28,
+        "thanPhap": 9,
+        "noiTuc": 28,
+        "canhKhi": 9,
+        "thePhach": 19,
+        "maxParry": 570,
+        "maxHp": 1120,
+        "maxMp": 310,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6740,
+        "innerId": 154,
+        "level": 19,
+        "point": 25,
+        "lucTay": 29,
+        "thanPhap": 10,
+        "noiTuc": 29,
+        "canhKhi": 10,
+        "thePhach": 20,
+        "maxParry": 600,
+        "maxHp": 1170,
+        "maxMp": 320,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6741,
+        "innerId": 154,
+        "level": 20,
+        "point": 26,
+        "lucTay": 31,
+        "thanPhap": 10,
+        "noiTuc": 31,
+        "canhKhi": 10,
+        "thePhach": 21,
+        "maxParry": 610,
+        "maxHp": 1230,
+        "maxMp": 340,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6742,
+        "innerId": 154,
+        "level": 21,
+        "point": 27,
+        "lucTay": 32,
+        "thanPhap": 11,
+        "noiTuc": 32,
+        "canhKhi": 11,
+        "thePhach": 21,
+        "maxParry": 660,
+        "maxHp": 1280,
+        "maxMp": 350,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6743,
+        "innerId": 154,
+        "level": 22,
+        "point": 28,
+        "lucTay": 34,
+        "thanPhap": 11,
+        "noiTuc": 34,
+        "canhKhi": 11,
+        "thePhach": 22,
+        "maxParry": 670,
+        "maxHp": 1340,
+        "maxMp": 365,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6744,
+        "innerId": 154,
+        "level": 23,
+        "point": 29,
+        "lucTay": 35,
+        "thanPhap": 12,
+        "noiTuc": 35,
+        "canhKhi": 12,
+        "thePhach": 23,
+        "maxParry": 700,
+        "maxHp": 1390,
+        "maxMp": 380,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6745,
+        "innerId": 154,
+        "level": 24,
+        "point": 30,
+        "lucTay": 36,
+        "thanPhap": 12,
+        "noiTuc": 36,
+        "canhKhi": 12,
+        "thePhach": 24,
+        "maxParry": 750,
+        "maxHp": 1450,
+        "maxMp": 395,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6746,
+        "innerId": 154,
+        "level": 25,
+        "point": 31,
+        "lucTay": 38,
+        "thanPhap": 13,
+        "noiTuc": 38,
+        "canhKhi": 13,
+        "thePhach": 25,
+        "maxParry": 740,
+        "maxHp": 1480,
+        "maxMp": 405,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 20% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6747,
+        "innerId": 154,
+        "level": 26,
+        "point": 32,
+        "lucTay": 39,
+        "thanPhap": 13,
+        "noiTuc": 39,
+        "canhKhi": 13,
+        "thePhach": 26,
+        "maxParry": 790,
+        "maxHp": 1550,
+        "maxMp": 425,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6748,
+        "innerId": 154,
+        "level": 27,
+        "point": 33,
+        "lucTay": 40,
+        "thanPhap": 13,
+        "noiTuc": 40,
+        "canhKhi": 13,
+        "thePhach": 27,
+        "maxParry": 810,
+        "maxHp": 1590,
+        "maxMp": 435,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6749,
+        "innerId": 154,
+        "level": 28,
+        "point": 34,
+        "lucTay": 42,
+        "thanPhap": 14,
+        "noiTuc": 42,
+        "canhKhi": 14,
+        "thePhach": 28,
+        "maxParry": 830,
+        "maxHp": 1660,
+        "maxMp": 455,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6750,
+        "innerId": 154,
+        "level": 29,
+        "point": 35,
+        "lucTay": 43,
+        "thanPhap": 14,
+        "noiTuc": 43,
+        "canhKhi": 14,
+        "thePhach": 29,
+        "maxParry": 850,
+        "maxHp": 1700,
+        "maxMp": 465,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6751,
+        "innerId": 154,
+        "level": 30,
+        "point": 36,
+        "lucTay": 44,
+        "thanPhap": 15,
+        "noiTuc": 44,
+        "canhKhi": 15,
+        "thePhach": 30,
+        "maxParry": 900,
+        "maxHp": 1760,
+        "maxMp": 480,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6752,
+        "innerId": 154,
+        "level": 31,
+        "point": 37,
+        "lucTay": 46,
+        "thanPhap": 15,
+        "noiTuc": 46,
+        "canhKhi": 15,
+        "thePhach": 30,
+        "maxParry": 910,
+        "maxHp": 1820,
+        "maxMp": 495,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6753,
+        "innerId": 154,
+        "level": 32,
+        "point": 38,
+        "lucTay": 47,
+        "thanPhap": 16,
+        "noiTuc": 47,
+        "canhKhi": 16,
+        "thePhach": 31,
+        "maxParry": 960,
+        "maxHp": 1870,
+        "maxMp": 510,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6754,
+        "innerId": 154,
+        "level": 33,
+        "point": 39,
+        "lucTay": 48,
+        "thanPhap": 16,
+        "noiTuc": 48,
+        "canhKhi": 16,
+        "thePhach": 32,
+        "maxParry": 990,
+        "maxHp": 1930,
+        "maxMp": 525,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6755,
+        "innerId": 154,
+        "level": 34,
+        "point": 40,
+        "lucTay": 50,
+        "thanPhap": 17,
+        "noiTuc": 50,
+        "canhKhi": 17,
+        "thePhach": 33,
+        "maxParry": 1000,
+        "maxHp": 1980,
+        "maxMp": 540,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6756,
+        "innerId": 154,
+        "level": 35,
+        "point": 41,
+        "lucTay": 51,
+        "thanPhap": 17,
+        "noiTuc": 51,
+        "canhKhi": 17,
+        "thePhach": 34,
+        "maxParry": 1030,
+        "maxHp": 2020,
+        "maxMp": 550,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 25% sát thương chiêu thức)"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 154,
+      "name": "Xích Hỏa Công",
+      "slug": "xi-ch-ho-a-cong",
+      "maxLevel": 36,
+      "schoolId": 9,
+      "type": "2",
+      "desc": "Nội công tâm pháp nhập môn Minh Giáo, để khống chế tâm hỏa, cho nội công cao thâm hơn sau khi tu tập, xây dựng nền móng đánh gục tâm ma, nội công này luyện đến cực độ, tâm hỏa thu phát tự nhiên, kèm sự tăng lên của nội lực, vô hình sát thương địch.",
+      "photo": "neigong/ng_mj_001.png",
+      "school": {
+        "id": 9,
+        "name": "Minh Giáo",
+        "type": "0",
+        "slug": "minh-giao"
+      },
+      "detail": {
+        "id": 6757,
+        "innerId": 154,
+        "level": 36,
+        "point": 42,
+        "lucTay": 53,
+        "thanPhap": 18,
+        "noiTuc": 53,
+        "canhKhi": 18,
+        "thePhach": 35,
+        "maxParry": 1040,
+        "maxHp": 2080,
+        "maxMp": 570,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "<font color=\"#FF3030\">Xích Hỏa Phần Địch</font>: Khi tấn công có tỉ lệ nhất định nhận trạng thái \"Xích Hỏa Phần Địch\": Trong 5s tăng sát thương chiêu thức của bản thân (Điểm Nộ Khí càng cao, tỉ lệ sát thương tăng càng cao, ít nhất tăng 10%, tối đa (Đủ Nộ Khí) tăng 30% sát thương chiêu thức); <br><font color=\"#9932CD\">Nộ Hỏa Công Tâm</font>: Khi chịu tấn công bản thân có tỉ lệ nhất định nhận \"Nộ Hỏa Công Tâm\": Trong 5s sản sinh 10 điểm Nộ Khí (Hiệu quả này mỗi 30s mới kích hoạt 1 lần)"
+      }
+    }
+  }
+]

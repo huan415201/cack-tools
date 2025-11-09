@@ -9,6 +9,7 @@ import {
 } from "mantine-react-table";
 import { type FC, useMemo } from "react";
 
+import THIEN_DINH_CONG from "@data/noiCong/refinedData/thieuLam/1_thienDinhCong";
 import { FILTER_VALUES } from "../constants";
 import type { TNoiCongTableData } from "../types";
 import { getHieuUng, getStatClassName } from "../utils";
@@ -38,7 +39,12 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter, selectedLevel }) => {
     }
     result = noiCongList.map((item) => {
       const noiCongMaxLevel = item.detail.length;
-      const detail = item.detail[Math.min(selectedLevel, noiCongMaxLevel) - 1];
+      const isMain = item.id === THIEN_DINH_CONG.id;
+      const detail =
+        item.detail[
+          Math.min(isMain ? noiCongMaxLevel : selectedLevel, noiCongMaxLevel) -
+            1
+        ];
       const hieuUng = getHieuUng(item, selectedLevel);
       const highestStat = Math.max(
         detail.lucTay,
@@ -83,6 +89,13 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter, selectedLevel }) => {
           </div>
         ),
         header: "Tên nội công",
+      },
+      {
+        accessorKey: "thuocTinh",
+        accessorFn: (row) => row.type || "-",
+        header: "Thuộc tính",
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "tongDiemNgoai",
@@ -157,6 +170,13 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter, selectedLevel }) => {
           align: "center",
           className: getStatClassName(row.original, "thePhach"),
         }),
+      },
+      {
+        accessorKey: "tongDiem",
+        accessorFn: (row) => row.detail.tongDiem || "-",
+        header: "Tổng điểm",
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
     ];
   }, []);

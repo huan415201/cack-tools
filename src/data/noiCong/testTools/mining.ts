@@ -1,5 +1,6 @@
 import type { TNoiCong, TNoiCongLevel } from "@models/noiCong";
 
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import miningJSON from "./mining.json";
 
 export const mining = () => {
@@ -36,6 +37,12 @@ export const mining = () => {
     ten: miningJSON[0]?.data.name,
     moTa: miningJSON[0]?.data.desc,
     tangToiDa: miningJSON[0]?.data.maxLevel,
+    type:
+      miningJSON[0]?.data.type === "0"
+        ? NOI_CONG_TYPE.duongCuong
+        : miningJSON[0]?.data.type === "1"
+          ? NOI_CONG_TYPE.amNhu
+          : NOI_CONG_TYPE.thaiCuc,
     hieuUngTang6: miningJSON[5]?.data.detail.effectInfo,
     hieuUngTang16: miningJSON[15]?.data.detail.effectInfo,
     hieuUngTang26: miningJSON[25]?.data.detail.effectInfo,

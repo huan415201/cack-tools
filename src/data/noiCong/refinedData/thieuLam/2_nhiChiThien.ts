@@ -1,5 +1,6 @@
 import { iconNhiChiThien } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const NHI_CHI_THIEN: TNoiCong = {
@@ -9,6 +10,7 @@ const NHI_CHI_THIEN: TNoiCong = {
   ten: "Nhị Chỉ Thiền",
   moTa: "Thiếu Lâm quan trọng Nội Công Tâm Pháp, là Công Pháp của Thuần Dương, Tâm Pháp Mật Quyết ở Đãi Thủ Nhập Tĩnh, tâm không tư lợi, khí đi hết các huyệt, mượt mà thông suốt. Luyện công này đến cảnh giới nhất định, chân khí tuôn trào, tinh lực vô hạn.",
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.duongCuong,
   hieuUngTang6:
     "Mỗi lần xuất chiêu, khi tung kình khí sẽ làm chấn thương mục tiêu xung quanh",
   hieuUngTang16:

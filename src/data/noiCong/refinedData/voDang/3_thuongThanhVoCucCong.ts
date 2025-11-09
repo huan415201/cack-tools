@@ -1,5 +1,6 @@
 import { iconThuongThanhVoCucCong } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const THUONG_THANH_VO_CUC_CONG: TNoiCong = {
@@ -9,6 +10,7 @@ const THUONG_THANH_VO_CUC_CONG: TNoiCong = {
   ten: "Thượng Thanh Vô Cực Công",
   moTa: "Tập Đại Thành của Võ Đang Nội Công Tâm Pháp, Mật Quyết làm Cửu Chuyển, Nhất Chuyển Giáng Đan, Nhị Chuyển Giao Hợp, Tam Chuyển Dưỡng Dương, Ngũ Chuyển Hoán Cốt, Lục Chuyển Hoán Nhục, Thất Chuyển Hoán Lục Phủ Ngũ Tạng, Bát Chuyển Dục Hỏa, Cửu Chuyển Phi Thăng.",
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.thaiCuc,
   hieuUngTang6:
     "Kim Đan Độ Kiếp: khi Khí huyết dưới 30% chịu công kích, trong 6s hồi phục nhanh điểm Khí huyết cao nhất 30%, thời gian hồi 200s\nThượng Thanh Vô Cực: tốc độ nhảy Phù Dao Bộ Pháp + 3",
   hieuUngTang16:

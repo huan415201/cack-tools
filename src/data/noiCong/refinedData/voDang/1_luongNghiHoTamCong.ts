@@ -1,5 +1,6 @@
 import { iconLuongNghiHoTamCong } from "@assets/icons";
 import COLOR_KEYS from "@constants/colorKeys";
+import { NOI_CONG_TYPE } from "@constants/noiCongType";
 import type { TNoiCong } from "@models/noiCong";
 
 const LUONG_NGHI_HO_TAM_CONG: TNoiCong = {
@@ -9,6 +10,7 @@ const LUONG_NGHI_HO_TAM_CONG: TNoiCong = {
   ten: "Lưỡng Nghi Hộ Tâm Công",
   moTa: 'Cơ sở Nội Công Tâm Pháp của Võ Đang, bắt nguồn từ [Dị Kinh], "Dị có Thái Cực, Sơ Khai sinh Lưỡng Nghi", Công Pháp Tập Âm Dương này ở Nhất Thân, Dã Cương Nhu ở Nhất Lô, hợp hai như một, lúc Công Pháp Đại Thành, Thân như Kim Cương không hư hỏng, thế yếu sức mạnh vô song, Lực Dã của Giai Lương Nghi.',
   tangToiDa: 36,
+  type: NOI_CONG_TYPE.thaiCuc,
   hieuUngTang6:
     "Bị công kích có xác suất 10% kích thích chân khí bản thân, hấp thu 100 điểm sát thương, khi chân khí bị kích tán hoặc tự động phân tán, có một phần điểm Nội Lực tự hồi",
   hieuUngTang16:
