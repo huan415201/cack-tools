@@ -1,5 +1,4 @@
 import Text from "@components/Text";
-import { CENTER_ALL_CELLS } from "@constants/table";
 import { NOI_1, NOI_2, NOI_3, NOI_CONG_ALL } from "@data/noiCong";
 import type { TNoiCong } from "@models/noiCong";
 import { dynamicColor } from "@utils/dynamicColor";
@@ -14,26 +13,29 @@ import { FILTER_VALUES } from "../constants";
 
 type TNoiCongTableProps = {
   filter: string;
+  selectedLevel?: number;
 };
 
-const NoiCongTable: FC<TNoiCongTableProps> = ({ filter }) => {
+const NoiCongTable: FC<TNoiCongTableProps> = ({ filter, selectedLevel }) => {
   const usingData = useMemo(() => {
     switch (filter) {
       case FILTER_VALUES[0].value:
-        return NOI_CONG_ALL;
+        return [...NOI_CONG_ALL];
       case FILTER_VALUES[1].value:
-        return NOI_1;
+        return [...NOI_1];
       case FILTER_VALUES[2].value:
-        return NOI_2;
+        return [...NOI_2];
       case FILTER_VALUES[3].value:
-        return NOI_3;
+        return [...NOI_3];
       default:
-        return NOI_CONG_ALL;
+        return [...NOI_CONG_ALL];
     }
-  }, [filter]);
+  }, [filter, selectedLevel]);
 
-  const columns = useMemo<MRT_ColumnDef<TNoiCong>[]>(
-    () => [
+  console.log("usingData:::", usingData);
+
+  const columns = useMemo<MRT_ColumnDef<TNoiCong>[]>(() => {
+    return [
       {
         accessorKey: "ten",
         accessorFn: (row) => row.ten,
@@ -51,55 +53,76 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter }) => {
       },
       {
         accessorKey: "tongDiemNgoai",
-        accessorFn: (row) => row.detail[row.detail.length - 1].tongDiemNgoai,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]
+            ?.tongDiemNgoai || "-",
         header: "Tổng điểm ngoại",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "tongDiemNoi",
-        accessorFn: (row) => row.detail[row.detail.length - 1].tongDiemNoi,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.tongDiemNoi ||
+          "-",
         header: "Tổng điểm nội",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
+      },
+      {
+        accessorKey: "hieuUng",
+        accessorFn: (row) =>
+          selectedLevel === 36 ? row.hieuUngTang36 : row.hieuUngTang26,
+        header: "Hiệu ứng",
+        size: 500,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "lucTay",
-        accessorFn: (row) => row.detail[row.detail.length - 1].lucTay,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.lucTay || "-",
         header: "Lực tay",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "thanPhap",
-        accessorFn: (row) => row.detail[row.detail.length - 1].thanPhap,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.thanPhap ||
+          "-",
         header: "Thân pháp",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "noiTuc",
-        accessorFn: (row) => row.detail[row.detail.length - 1].noiTuc,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.noiTuc || "-",
         header: "Nội tức",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "canhKhi",
-        accessorFn: (row) => row.detail[row.detail.length - 1].canhKhi,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.canhKhi ||
+          "-",
         header: "Canh khí",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
       {
         accessorKey: "thePhach",
-        accessorFn: (row) => row.detail[row.detail.length - 1].thePhach,
+        accessorFn: (row) =>
+          row.detail?.[(selectedLevel || row.detail.length) - 1]?.thePhach ||
+          "-",
         header: "Thể phách",
-        ...CENTER_ALL_CELLS,
+        mantineTableHeadCellProps: { align: "center" },
+        mantineTableBodyCellProps: { align: "center" },
       },
-      {
-        accessorKey: "diemNoiCong",
-        accessorFn: (row) => row.detail[row.detail.length - 1].diemNoiCong,
-        header: "Điểm nội công",
-        ...CENTER_ALL_CELLS,
-      },
-    ],
-    [],
-  );
+    ];
+  }, [selectedLevel]);
 
   const table = useMantineReactTable<TNoiCong>({
     columns,
@@ -110,6 +133,10 @@ const NoiCongTable: FC<TNoiCongTableProps> = ({ filter }) => {
     enableBottomToolbar: false,
     initialState: {
       sorting: [{ id: "tongDiemNgoai", desc: true }],
+    },
+    mantinePaperProps: {
+      shadow: "none",
+      className: "!border-b-0",
     },
   });
 

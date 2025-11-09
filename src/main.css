@@ -1,6 +1,16 @@
 @import "tailwindcss";
 
 @theme {
+  --color-border: theme(colors.gray.300);
+  --color-caibang: #6d5241;
+  --color-camyve: #ffffff;
+  --color-conluan: #ffffff;
+  --color-cuclaccoc: #ffffff;
+  --color-duongmon: #ffffff;
+  --color-minhgiao: #ffffff;
+  --color-ngami: #dc54ab;
+  --color-quantuduong: #ffffff;
+  --color-thienson: #ffffff;
   --color-thieulam: #fac74a;
   --color-vodang: #515aa1;
 }

@@ -1,4 +1,5 @@
 import Text from "@components/Text";
+import { ACTIVE_BUTTON, HOVER_BUTTON } from "@constants/classNames";
 import { useAppDispatch, useAppSelector } from "@reduck/hooks";
 import { setActiveSidebarItem } from "@reduck/slices/appSlice";
 import { useCallback, useEffect } from "react";
@@ -39,7 +40,7 @@ const Sidebar = () => {
         key={item.value}
         to={item.path}
         onClick={() => setActiveItem(item.value)}
-        className={`w-full py-4 px-3 flex justify-start cursor-pointer ${isActive ? "bg-blue-300" : "hover:bg-blue-100"}`}
+        className={`w-full py-4 px-3 flex justify-start cursor-pointer font-medium ${isActive ? ACTIVE_BUTTON : HOVER_BUTTON}`}
       >
         {item.label}
       </Link>
@@ -51,7 +52,7 @@ const Sidebar = () => {
   }, [location.pathname, setActiveItem]);
 
   return (
-    <div className="h-full border-r border-r-gray-300">
+    <div className="h-full border-r border-r-border">
       <div className="bg-[#1f2937] flex justify-center items-center">
         <Text className="text-[48px] font-bold text-[#ff6666]">TAP</Text>
       </div>

@@ -1,0 +1,1334 @@
+[
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 249,
+        "innerId": 5,
+        "level": 1,
+        "point": 7,
+        "lucTay": 3,
+        "thanPhap": 2,
+        "noiTuc": 10,
+        "canhKhi": 9,
+        "thePhach": 7,
+        "maxParry": 300,
+        "maxHp": 380,
+        "maxMp": 105,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 8050,
+        "tuViTong": 0,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 250,
+        "innerId": 5,
+        "level": 2,
+        "point": 8,
+        "lucTay": 3,
+        "thanPhap": 2,
+        "noiTuc": 11,
+        "canhKhi": 10,
+        "thePhach": 7,
+        "maxParry": 350,
+        "maxHp": 410,
+        "maxMp": 110,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 10950,
+        "tuViTong": 8050,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 251,
+        "innerId": 5,
+        "level": 3,
+        "point": 9,
+        "lucTay": 4,
+        "thanPhap": 2,
+        "noiTuc": 13,
+        "canhKhi": 11,
+        "thePhach": 8,
+        "maxParry": 350,
+        "maxHp": 460,
+        "maxMp": 125,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 14300,
+        "tuViTong": 19000,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 252,
+        "innerId": 5,
+        "level": 4,
+        "point": 10,
+        "lucTay": 4,
+        "thanPhap": 2,
+        "noiTuc": 14,
+        "canhKhi": 12,
+        "thePhach": 9,
+        "maxParry": 380,
+        "maxHp": 500,
+        "maxMp": 135,
+        "innerDef": 25,
+        "effectLevel": 0,
+        "tuViTienCap": 18100,
+        "tuViTong": 33300,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 253,
+        "innerId": 5,
+        "level": 5,
+        "point": 11,
+        "lucTay": 4,
+        "thanPhap": 2,
+        "noiTuc": 15,
+        "canhKhi": 13,
+        "thePhach": 10,
+        "maxParry": 440,
+        "maxHp": 540,
+        "maxMp": 145,
+        "innerDef": 30,
+        "effectLevel": 0,
+        "tuViTienCap": 22300,
+        "tuViTong": 51400,
+        "effectInfo": ""
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 254,
+        "innerId": 5,
+        "level": 6,
+        "point": 12,
+        "lucTay": 5,
+        "thanPhap": 3,
+        "noiTuc": 16,
+        "canhKhi": 14,
+        "thePhach": 10,
+        "maxParry": 460,
+        "maxHp": 580,
+        "maxMp": 155,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 27000,
+        "tuViTong": 73700,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 255,
+        "innerId": 5,
+        "level": 7,
+        "point": 13,
+        "lucTay": 5,
+        "thanPhap": 3,
+        "noiTuc": 17,
+        "canhKhi": 16,
+        "thePhach": 11,
+        "maxParry": 520,
+        "maxHp": 630,
+        "maxMp": 170,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 32150,
+        "tuViTong": 100700,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 256,
+        "innerId": 5,
+        "level": 8,
+        "point": 14,
+        "lucTay": 5,
+        "thanPhap": 3,
+        "noiTuc": 18,
+        "canhKhi": 16,
+        "thePhach": 12,
+        "maxParry": 550,
+        "maxHp": 660,
+        "maxMp": 180,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 37700,
+        "tuViTong": 132850,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 257,
+        "innerId": 5,
+        "level": 9,
+        "point": 15,
+        "lucTay": 6,
+        "thanPhap": 3,
+        "noiTuc": 20,
+        "canhKhi": 18,
+        "thePhach": 13,
+        "maxParry": 550,
+        "maxHp": 710,
+        "maxMp": 190,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 43750,
+        "tuViTong": 170550,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 258,
+        "innerId": 5,
+        "level": 10,
+        "point": 16,
+        "lucTay": 6,
+        "thanPhap": 3,
+        "noiTuc": 21,
+        "canhKhi": 19,
+        "thePhach": 13,
+        "maxParry": 600,
+        "maxHp": 750,
+        "maxMp": 200,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 50200,
+        "tuViTong": 214300,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 259,
+        "innerId": 5,
+        "level": 11,
+        "point": 17,
+        "lucTay": 7,
+        "thanPhap": 4,
+        "noiTuc": 22,
+        "canhKhi": 20,
+        "thePhach": 14,
+        "maxParry": 630,
+        "maxHp": 800,
+        "maxMp": 215,
+        "innerDef": 30,
+        "effectLevel": 1,
+        "tuViTienCap": 57100,
+        "tuViTong": 264500,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 260,
+        "innerId": 5,
+        "level": 12,
+        "point": 18,
+        "lucTay": 7,
+        "thanPhap": 4,
+        "noiTuc": 23,
+        "canhKhi": 21,
+        "thePhach": 15,
+        "maxParry": 660,
+        "maxHp": 830,
+        "maxMp": 225,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 64450,
+        "tuViTong": 321600,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 261,
+        "innerId": 5,
+        "level": 13,
+        "point": 19,
+        "lucTay": 7,
+        "thanPhap": 4,
+        "noiTuc": 24,
+        "canhKhi": 22,
+        "thePhach": 16,
+        "maxParry": 720,
+        "maxHp": 880,
+        "maxMp": 235,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 72250,
+        "tuViTong": 386050,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 262,
+        "innerId": 5,
+        "level": 14,
+        "point": 20,
+        "lucTay": 8,
+        "thanPhap": 4,
+        "noiTuc": 25,
+        "canhKhi": 23,
+        "thePhach": 16,
+        "maxParry": 740,
+        "maxHp": 920,
+        "maxMp": 250,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 80550,
+        "tuViTong": 458300,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 263,
+        "innerId": 5,
+        "level": 15,
+        "point": 21,
+        "lucTay": 8,
+        "thanPhap": 4,
+        "noiTuc": 26,
+        "canhKhi": 24,
+        "thePhach": 17,
+        "maxParry": 800,
+        "maxHp": 960,
+        "maxMp": 260,
+        "innerDef": 35,
+        "effectLevel": 1,
+        "tuViTienCap": 89200,
+        "tuViTong": 538850,
+        "effectInfo": "Khi đỡ đòn giảm thêm 15 điểm sát thương nội công và 12 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 264,
+        "innerId": 5,
+        "level": 16,
+        "point": 22,
+        "lucTay": 8,
+        "thanPhap": 5,
+        "noiTuc": 28,
+        "canhKhi": 25,
+        "thePhach": 18,
+        "maxParry": 850,
+        "maxHp": 1020,
+        "maxMp": 275,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 98350,
+        "tuViTong": 628050,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 265,
+        "innerId": 5,
+        "level": 17,
+        "point": 23,
+        "lucTay": 9,
+        "thanPhap": 5,
+        "noiTuc": 29,
+        "canhKhi": 27,
+        "thePhach": 19,
+        "maxParry": 880,
+        "maxHp": 1070,
+        "maxMp": 290,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 107950,
+        "tuViTong": 726400,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 266,
+        "innerId": 5,
+        "level": 18,
+        "point": 24,
+        "lucTay": 9,
+        "thanPhap": 5,
+        "noiTuc": 31,
+        "canhKhi": 28,
+        "thePhach": 20,
+        "maxParry": 940,
+        "maxHp": 1130,
+        "maxMp": 305,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 118000,
+        "tuViTong": 834350,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 267,
+        "innerId": 5,
+        "level": 19,
+        "point": 25,
+        "lucTay": 10,
+        "thanPhap": 5,
+        "noiTuc": 32,
+        "canhKhi": 29,
+        "thePhach": 21,
+        "maxParry": 970,
+        "maxHp": 1180,
+        "maxMp": 315,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 128450,
+        "tuViTong": 952350,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 268,
+        "innerId": 5,
+        "level": 20,
+        "point": 26,
+        "lucTay": 10,
+        "thanPhap": 6,
+        "noiTuc": 34,
+        "canhKhi": 31,
+        "thePhach": 22,
+        "maxParry": 1020,
+        "maxHp": 1240,
+        "maxMp": 335,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 139400,
+        "tuViTong": 1080800,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 269,
+        "innerId": 5,
+        "level": 21,
+        "point": 27,
+        "lucTay": 11,
+        "thanPhap": 6,
+        "noiTuc": 35,
+        "canhKhi": 32,
+        "thePhach": 23,
+        "maxParry": 1050,
+        "maxHp": 1290,
+        "maxMp": 345,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 150750,
+        "tuViTong": 1220200,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 270,
+        "innerId": 5,
+        "level": 22,
+        "point": 28,
+        "lucTay": 11,
+        "thanPhap": 6,
+        "noiTuc": 37,
+        "canhKhi": 34,
+        "thePhach": 24,
+        "maxParry": 1110,
+        "maxHp": 1350,
+        "maxMp": 360,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 162600,
+        "tuViTong": 1370950,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 271,
+        "innerId": 5,
+        "level": 23,
+        "point": 29,
+        "lucTay": 11,
+        "thanPhap": 6,
+        "noiTuc": 38,
+        "canhKhi": 35,
+        "thePhach": 25,
+        "maxParry": 1170,
+        "maxHp": 1400,
+        "maxMp": 375,
+        "innerDef": 35,
+        "effectLevel": 2,
+        "tuViTienCap": 174850,
+        "tuViTong": 1533550,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 272,
+        "innerId": 5,
+        "level": 24,
+        "point": 30,
+        "lucTay": 12,
+        "thanPhap": 7,
+        "noiTuc": 40,
+        "canhKhi": 36,
+        "thePhach": 26,
+        "maxParry": 1190,
+        "maxHp": 1460,
+        "maxMp": 390,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 187550,
+        "tuViTong": 1708400,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 273,
+        "innerId": 5,
+        "level": 25,
+        "point": 31,
+        "lucTay": 12,
+        "thanPhap": 7,
+        "noiTuc": 41,
+        "canhKhi": 37,
+        "thePhach": 27,
+        "maxParry": 1250,
+        "maxHp": 1500,
+        "maxMp": 400,
+        "innerDef": 40,
+        "effectLevel": 2,
+        "tuViTienCap": 200700,
+        "tuViTong": 1895950,
+        "effectInfo": "Khi đỡ đòn giảm thêm 30 điểm sát thương nội công và 16 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 274,
+        "innerId": 5,
+        "level": 26,
+        "point": 32,
+        "lucTay": 13,
+        "thanPhap": 7,
+        "noiTuc": 43,
+        "canhKhi": 39,
+        "thePhach": 28,
+        "maxParry": 1280,
+        "maxHp": 1560,
+        "maxMp": 420,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 214300,
+        "tuViTong": 2096650,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 275,
+        "innerId": 5,
+        "level": 27,
+        "point": 33,
+        "lucTay": 13,
+        "thanPhap": 7,
+        "noiTuc": 44,
+        "canhKhi": 40,
+        "thePhach": 29,
+        "maxParry": 1340,
+        "maxHp": 1610,
+        "maxMp": 430,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 228350,
+        "tuViTong": 2310950,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 276,
+        "innerId": 5,
+        "level": 28,
+        "point": 34,
+        "lucTay": 14,
+        "thanPhap": 8,
+        "noiTuc": 46,
+        "canhKhi": 42,
+        "thePhach": 30,
+        "maxParry": 1360,
+        "maxHp": 1670,
+        "maxMp": 450,
+        "innerDef": 40,
+        "effectLevel": 3,
+        "tuViTienCap": 242850,
+        "tuViTong": 2539300,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 277,
+        "innerId": 5,
+        "level": 29,
+        "point": 35,
+        "lucTay": 14,
+        "thanPhap": 8,
+        "noiTuc": 47,
+        "canhKhi": 43,
+        "thePhach": 31,
+        "maxParry": 1420,
+        "maxHp": 1720,
+        "maxMp": 460,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 257800,
+        "tuViTong": 2782150,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 278,
+        "innerId": 5,
+        "level": 30,
+        "point": 36,
+        "lucTay": 15,
+        "thanPhap": 8,
+        "noiTuc": 49,
+        "canhKhi": 44,
+        "thePhach": 32,
+        "maxParry": 1450,
+        "maxHp": 1780,
+        "maxMp": 475,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 273200,
+        "tuViTong": 3039950,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 279,
+        "innerId": 5,
+        "level": 31,
+        "point": 37,
+        "lucTay": 15,
+        "thanPhap": 8,
+        "noiTuc": 50,
+        "canhKhi": 46,
+        "thePhach": 33,
+        "maxParry": 1510,
+        "maxHp": 1830,
+        "maxMp": 490,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 289000,
+        "tuViTong": 3313150,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 280,
+        "innerId": 5,
+        "level": 32,
+        "point": 38,
+        "lucTay": 16,
+        "thanPhap": 9,
+        "noiTuc": 52,
+        "canhKhi": 47,
+        "thePhach": 34,
+        "maxParry": 1530,
+        "maxHp": 1890,
+        "maxMp": 505,
+        "innerDef": 45,
+        "effectLevel": 3,
+        "tuViTienCap": 305300,
+        "tuViTong": 3602150,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 281,
+        "innerId": 5,
+        "level": 33,
+        "point": 39,
+        "lucTay": 16,
+        "thanPhap": 9,
+        "noiTuc": 53,
+        "canhKhi": 48,
+        "thePhach": 35,
+        "maxParry": 1590,
+        "maxHp": 1940,
+        "maxMp": 520,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 322050,
+        "tuViTong": 3907450,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 282,
+        "innerId": 5,
+        "level": 34,
+        "point": 40,
+        "lucTay": 16,
+        "thanPhap": 9,
+        "noiTuc": 55,
+        "canhKhi": 50,
+        "thePhach": 36,
+        "maxParry": 1650,
+        "maxHp": 2000,
+        "maxMp": 535,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 339200,
+        "tuViTong": 4229500,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 283,
+        "innerId": 5,
+        "level": 35,
+        "point": 41,
+        "lucTay": 17,
+        "thanPhap": 9,
+        "noiTuc": 56,
+        "canhKhi": 51,
+        "thePhach": 37,
+        "maxParry": 1670,
+        "maxHp": 2040,
+        "maxMp": 545,
+        "innerDef": 50,
+        "effectLevel": 3,
+        "tuViTienCap": 356800,
+        "tuViTong": 4568700,
+        "effectInfo": "Khi đỡ đòn giảm thêm 45 điểm sát thương nội công và 22 điểm sát thương ngoại công"
+      }
+    }
+  },
+  {
+    "data": {
+      "id": 5,
+      "name": "Khí Trang Công",
+      "slug": "khi-trang-cong",
+      "maxLevel": 36,
+      "schoolId": 3,
+      "type": "1",
+      "desc": "Nội Công Tâm Pháp cơ bản của Nga Mi, là Nga Mi Sơn Bạch Vân Thiền Sư sáng tạo, lấy hư thực của âm dương và quy luật của Nhân Thể thịnh suy, khi học võ Nhu Tạp động tĩnh Công Pháp, tương hộ dung hợp, thành Đại Đạo Công Pháp.",
+      "photo": "neigong/ng_em_001.png",
+      "school": {
+        "id": 3,
+        "name": "Nga My",
+        "type": "0",
+        "slug": "nga-my"
+      },
+      "detail": {
+        "id": 284,
+        "innerId": 5,
+        "level": 36,
+        "point": 42,
+        "lucTay": 17,
+        "thanPhap": 9,
+        "noiTuc": 58,
+        "canhKhi": 52,
+        "thePhach": 38,
+        "maxParry": 1730,
+        "maxHp": 2100,
+        "maxMp": 560,
+        "innerDef": 50,
+        "effectLevel": 4,
+        "tuViTienCap": 0,
+        "tuViTong": 4925500,
+        "effectInfo": "Khi đỡ đòn giảm thêm 90% sát thương nội công và 70% sát thương ngoại công"
+      }
+    }
+  }
+]
